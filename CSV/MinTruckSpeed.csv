@@ -1,0 +1,1844 @@
+id,truckid,driverid,event,latitude,longitude,city,state,velocity,event_ind,idling_ind
+6,A50,A50,normal,38.40765,13,Occidental,California,0,0,1
+7,A51,A51,normal,37.639097,0,Modesto,California,0,0,1
+8,A19,A19,normal,37.962146,-122.345526,San Pablo,California,0,0,1
+10,A92,A92,normal,37.484938,-119.966284,Mariposa,California,0,0,1
+18,A10,A10,normal,40.761243,-123.994778,Kneeland,California,0,0,1
+21,A65,A65,normal,37.484938,-119.966284,Mariposa,California,0,0,1
+23,A94,A94,unsafe following distance,37.941325,-122.484704,San Quentin,California,0,1,1
+26,A72,A72,normal,37.957702,-121.29078,Stockton,California,0,0,1
+37,A56,A56,normal,34.435829,-119.827639,Goleta,California,0,0,1
+51,A100,A100,normal,34.136119,-117.865339,Glendora,California,0,0,1
+61,A22,A22,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+62,A16,A16,normal,39.017396,-122.057748,Arbuckle,California,0,0,1
+65,A39,A39,normal,39.409608,-123.355566,Willits,California,0,0,1
+70,A35,A35,normal,39.409608,-123.355566,Willits,California,0,0,1
+74,A99,A99,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+76,A16,A16,normal,37.005782,-121.568275,Gilroy,California,0,0,1
+99,A68,A68,normal,34.354166,-119.059271,Santa Paula,California,0,0,1
+103,A88,A88,normal,40.563763,-122.238892,Palo Cedro,California,0,0,1
+105,A79,A79,normal,36.471865,-6.196595,San Fernando,California,0,0,1
+107,A7,A7,normal,39.409608,-123.355566,Willits,California,0,0,1
+108,A31,A31,normal,39.409608,-123.355566,Willits,California,0,0,1
+114,A21,A21,normal,38.752124,-121.288006,Roseville,California,0,0,1
+119,A52,A52,normal,37.941325,-122.484704,San Quentin,California,0,0,1
+123,A39,A39,normal,38.716687,-121.364422,Antelope,California,0,0,1
+126,A33,A33,normal,34.106676,-117.806726,San Dimas,California,0,0,1
+135,A72,A72,normal,38.161861,-121.611621,Isleton,California,0,0,1
+139,A35,A35,normal,37.968812,-121.668008,Knightsen,California,0,0,1
+141,A68,A68,normal,33.743076,-117.109197,Homeland,California,0,0,1
+148,A96,A96,normal,37.962146,-122.345526,San Pablo,California,0,0,1
+158,A76,A76,normal,37.77493,-122.419416,San Francisco,California,0,0,1
+159,A61,A61,normal,39.409608,-123.355566,Willits,California,0,0,1
+165,A12,A12,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+166,A90,A90,normal,38.716687,-121.364422,Antelope,California,0,0,1
+168,A65,A65,normal,33.663357,-116.310009,La Quinta,California,0,0,1
+174,A86,A86,normal,34.019454,-118.491191,Santa Monica,California,0,0,1
+175,A78,A78,normal,38.297538,-122.286865,Napa,California,0,0,1
+180,A48,A48,normal,37.957702,-121.29078,Stockton,California,0,0,1
+181,A8,A8,normal,39.409608,-123.355566,Willits,California,0,0,1
+187,A76,A76,normal,40.563763,-122.238892,Palo Cedro,California,0,0,1
+190,A71,A71,lane departure,33.683947,-117.794694,Irvine,California,0,1,1
+195,A3,A3,normal,38.019366,-122.134132,Martinez,California,0,0,1
+198,A100,A100,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+203,A37,A37,normal,34.435829,-119.827639,Goleta,California,0,0,1
+206,A75,A75,normal,36.471865,-6.196595,San Fernando,California,0,0,1
+212,A4,A4,normal,34.136119,-117.865339,Glendora,California,0,0,1
+226,A91,A91,normal,33.846404,-118.046731,La Palma,California,0,0,1
+231,A16,A16,normal,38.716687,-121.364422,Antelope,California,0,0,1
+237,A88,A88,normal,36.471865,-6.196595,San Fernando,California,0,0,1
+240,A43,A43,normal,39.017396,-122.057748,Arbuckle,California,0,0,1
+246,A100,A100,normal,39.409608,-123.355566,Willits,California,0,0,1
+252,A32,A32,normal,38.297538,-122.286865,Napa,California,0,0,1
+254,A39,A39,normal,37.962146,-122.345526,San Pablo,California,0,0,1
+263,A4,A4,normal,34.136119,-117.865339,Glendora,California,0,0,1
+265,A37,A37,unsafe following distance,34.500831,-117.185876,Apple Valley,California,0,1,1
+268,A24,A24,normal,34.579434,-118.116461,Palmdale,California,0,0,1
+271,A11,A11,normal,36.471865,-6.196595,San Fernando,California,0,0,1
+273,A93,A93,normal,36.852455,-121.401602,Hollister,California,0,0,1
+274,A5,A5,normal,34.579434,-118.116461,Palmdale,California,0,0,1
+276,A41,A41,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+280,A60,A60,normal,34.435829,-119.827639,Goleta,California,0,0,1
+282,A33,A33,normal,37.941325,-122.484704,San Quentin,California,0,0,1
+283,A31,A31,normal,37.968812,-121.668008,Knightsen,California,0,0,1
+284,A57,A57,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+289,A100,A100,normal,39.409608,-123.355566,Willits,California,0,0,1
+293,A72,A72,normal,39.150171,-123.207783,Ukiah,California,0,0,1
+302,A17,A17,normal,37.957702,-121.29078,Stockton,California,0,0,1
+305,A6,A6,normal,38.36408,-122.524149,Glen Ellen,California,0,0,1
+317,A32,A32,normal,41.526509,-124.038407,Klamath,California,0,0,1
+318,A57,A57,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+325,A32,A32,normal,38.130197,-121.272447,Lodi,California,0,0,1
+326,A89,A89,normal,37.639097,-120.996878,Modesto,California,0,0,1
+340,A36,A36,normal,34.579434,-118.116461,Palmdale,California,0,0,1
+341,A46,A46,normal,32.715329,-117.157255,San Diego,California,0,0,1
+342,A80,A80,normal,36.471865,-6.196595,San Fernando,California,0,0,1
+346,A33,A33,normal,37.441883,-122.143019,Palo Alto,California,0,0,1
+347,A79,A79,normal,37.957702,-121.29078,Stockton,California,0,0,1
+353,A46,A46,normal,36.746842,-119.772587,Fresno,California,0,0,1
+357,A57,A57,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+360,A65,A65,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+361,A21,A21,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+363,A51,A51,normal,38.297538,-122.286865,Napa,California,0,0,1
+364,A10,A10,unsafe following distance,37.941325,-122.484704,San Quentin,California,0,1,1
+366,A44,A44,lane departure,38.36408,-122.524149,Glen Ellen,California,0,1,1
+370,A85,A85,normal,38.716687,-121.364422,Antelope,California,0,0,1
+377,A76,A76,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+389,A59,A59,normal,38.297538,-122.286865,Napa,California,0,0,1
+392,A11,A11,normal,38.799703,-121.720574,Knights Landing,California,0,0,1
+399,A8,A8,normal,34.136119,-117.865339,Glendora,California,0,0,1
+401,A4,A4,normal,34.136119,-117.865339,Glendora,California,0,0,1
+403,A13,A13,normal,34.579434,-118.116461,Palmdale,California,0,0,1
+405,A60,A60,normal,38.161861,-121.611621,Isleton,California,0,0,1
+418,A49,A49,normal,33.846404,-118.046731,La Palma,California,0,0,1
+427,A96,A96,normal,35.373292,-119.018712,Bakersfield,California,0,0,1
+429,A35,A35,normal,37.968812,-121.668008,Knightsen,California,0,0,1
+431,A91,A91,normal,39.409608,-123.355566,Willits,California,0,0,1
+438,A91,A91,normal,40.761243,-123.994778,Kneeland,California,0,0,1
+439,A14,A14,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+442,A90,A90,normal,34.019454,-118.491191,Santa Monica,California,0,0,1
+448,A34,A34,normal,33.663357,-116.310009,La Quinta,California,0,0,1
+449,A95,A95,normal,39.409608,-123.355566,Willits,California,0,0,1
+450,A44,A44,normal,32.61768,-116.187424,Jacumba,California,0,0,1
+457,A5,A5,normal,38.716687,-121.364422,Antelope,California,0,0,1
+475,A68,A68,normal,38.161861,-121.611621,Isleton,California,0,0,1
+478,A44,A44,normal,32.61768,-116.187424,Jacumba,California,0,0,1
+484,A41,A41,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+491,A28,A28,normal,38.297538,-122.286865,Napa,California,0,0,1
+493,A26,A26,normal,34.44805,-119.242889,Ojai,California,0,0,1
+503,A61,A61,normal,39.409608,-123.355566,Willits,California,0,0,1
+507,A34,A34,normal,40.563763,-122.238892,Palo Cedro,California,0,0,1
+513,A17,A17,normal,38.130197,-121.272447,Lodi,California,0,0,1
+526,A86,A86,normal,37.957702,-121.29078,Stockton,California,0,0,1
+528,A25,A25,normal,38.36408,-122.524149,Glen Ellen,California,0,0,1
+531,A19,A19,normal,35.373292,-119.018712,Bakersfield,California,0,0,1
+532,A38,A38,normal,40.563763,-122.238892,Palo Cedro,California,0,0,1
+533,A48,A48,normal,36.471865,-6.196595,San Fernando,California,0,0,1
+534,A72,A72,normal,38.019366,-122.134132,Martinez,California,0,0,1
+538,A94,A94,normal,39.409608,-123.355566,Willits,California,0,0,1
+551,A57,A57,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+552,A52,A52,normal,37.941325,-122.484704,San Quentin,California,0,0,1
+559,A71,A71,normal,38.752124,-121.288006,Roseville,California,0,0,1
+564,A63,A63,unsafe following distance,32.61768,-116.187424,Jacumba,California,0,1,1
+572,A20,A20,normal,34.106676,-117.806726,San Dimas,California,0,0,1
+580,A2,A2,normal,34.106676,-117.806726,San Dimas,California,0,0,1
+591,A35,A35,normal,34.953034,-120.435719,Santa Maria,California,0,0,1
+594,A68,A68,normal,37.957702,-121.29078,Stockton,California,0,0,1
+597,A5,A5,normal,38.693723,-119.779683,Markleeville,California,0,0,1
+600,A97,A97,normal,34.106676,-117.806726,San Dimas,California,0,0,1
+601,A87,A87,normal,34.354166,-119.059271,Santa Paula,California,0,0,1
+602,A60,A60,normal,34.106676,-117.806726,San Dimas,California,0,0,1
+604,A30,A30,normal,36.977173,-121.899402,Aptos,California,0,0,1
+608,A11,A11,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+612,A42,A42,normal,36.977173,-121.899402,Aptos,California,0,0,1
+613,A20,A20,normal,37.639097,-120.996878,Modesto,California,0,0,1
+614,A21,A21,normal,33.19587,-117.379483,Oceanside,California,0,0,1
+616,A72,A72,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+623,A30,A30,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+624,A63,A63,normal,33.846404,-118.046731,La Palma,California,0,0,1
+625,A17,A17,normal,39.409608,-123.355566,Willits,California,0,0,1
+641,A80,A80,normal,36.471865,-6.196595,San Fernando,California,0,0,1
+642,A71,A71,normal,32.61768,-116.187424,Jacumba,California,0,0,1
+653,A43,A43,unsafe following distance,38.716687,-121.364422,Antelope,California,0,1,1
+654,A86,A86,normal,38.716687,-121.364422,Antelope,California,0,0,1
+662,A5,A5,normal,34.019454,-118.491191,Santa Monica,California,0,0,1
+663,A53,A53,normal,40.563763,-122.238892,Palo Cedro,California,0,0,1
+665,A94,A94,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+670,A71,A71,normal,32.61768,-116.187424,Jacumba,California,0,0,1
+671,A85,A85,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+675,A7,A7,normal,40.563763,-122.238892,Palo Cedro,California,0,0,1
+688,A27,A27,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+689,A74,A74,normal,37.005782,-121.568275,Gilroy,California,0,0,1
+697,A28,A28,normal,38.716687,-121.364422,Antelope,California,0,0,1
+698,A93,A93,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+703,A80,A80,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+708,A39,A39,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+709,A13,A13,normal,39.409608,-123.355566,Willits,California,0,0,1
+716,A48,A48,normal,37.957702,-121.29078,Stockton,California,0,0,1
+717,A75,A75,normal,36.471865,-6.196595,San Fernando,California,0,0,1
+718,A3,A3,normal,39.150171,-123.207783,Ukiah,California,0,0,1
+719,A72,A72,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+720,A52,A52,normal,33.19587,-117.379483,Oceanside,California,0,0,1
+723,A90,A90,normal,41.526509,-124.038407,Klamath,California,0,0,1
+728,A26,A26,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+729,A25,A25,normal,37.957702,-121.29078,Stockton,California,0,0,1
+731,A98,A98,normal,36.471865,-6.196595,San Fernando,California,0,0,1
+733,A60,A60,normal,34.106676,-117.806726,San Dimas,California,0,0,1
+735,A61,A61,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+736,A69,A69,normal,39.230151,-121.136075,Rough and Ready,California,0,0,1
+740,A82,A82,normal,38.130197,-121.272447,Lodi,California,0,0,1
+741,A27,A27,normal,38.40765,-122.947713,Occidental,California,0,0,1
+745,A79,A79,normal,38.805462,-123.017223,Cloverdale,California,0,0,1
+748,A95,A95,normal,37.957702,-121.29078,Stockton,California,0,0,1
+749,A79,A79,normal,37.941325,-122.484704,San Quentin,California,0,0,1
+761,A74,A74,normal,39.017396,-122.057748,Arbuckle,California,0,0,1
+763,A84,A84,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+765,A78,A78,normal,38.716687,-121.364422,Antelope,California,0,0,1
+778,A94,A94,normal,33.19587,-117.379483,Oceanside,California,0,0,1
+786,A13,A13,normal,34.579434,-118.116461,Palmdale,California,0,0,1
+788,A17,A17,normal,37.957702,-121.29078,Stockton,California,0,0,1
+790,A40,A40,normal,38.716687,-121.364422,Antelope,California,0,0,1
+791,A49,A49,normal,33.846404,-118.046731,La Palma,California,0,0,1
+794,A100,A100,lane departure,39.145725,-121.591355,Marysville,California,0,1,1
+798,A72,A72,normal,33.846404,-118.046731,La Palma,California,0,0,1
+810,A16,A16,normal,36.977173,-121.899402,Aptos,California,0,0,1
+815,A34,A34,normal,39.409608,-123.355566,Willits,California,0,0,1
+816,A19,A19,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+824,A56,A56,normal,33.683947,-117.794694,Irvine,California,0,0,1
+827,A65,A65,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+832,A81,A81,normal,37.962146,-122.345526,San Pablo,California,0,0,1
+837,A62,A62,normal,34.953034,-120.435719,Santa Maria,California,0,0,1
+850,A58,A58,normal,38.716687,-121.364422,Antelope,California,0,0,1
+851,A14,A14,normal,40.761243,-123.994778,Kneeland,California,0,0,1
+862,A85,A85,normal,39.409608,-123.355566,Willits,California,0,0,1
+867,A42,A42,normal,36.746842,-119.772587,Fresno,California,0,0,1
+868,A62,A62,normal,38.716687,-121.364422,Antelope,California,0,0,1
+877,A85,A85,normal,38.716687,-121.364422,Antelope,California,0,0,1
+881,A20,A20,normal,36.852455,-121.401602,Hollister,California,0,0,1
+882,A45,A45,normal,39.409608,-123.355566,Willits,California,0,0,1
+883,A75,A75,normal,32.61768,-116.187424,Jacumba,California,0,0,1
+902,A59,A59,normal,34.579434,-118.116461,Palmdale,California,0,0,1
+904,A81,A81,normal,34.136119,-117.865339,Glendora,California,0,0,1
+906,A55,A55,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+907,A8,A8,normal,39.409608,-123.355566,Willits,California,0,0,1
+911,A5,A5,normal,32.715329,-117.157255,San Diego,California,0,0,1
+912,A55,A55,normal,33.846404,-118.046731,La Palma,California,0,0,1
+915,A22,A22,normal,33.846404,-118.046731,La Palma,California,0,0,1
+924,A33,A33,normal,37.941325,-122.484704,San Quentin,California,0,0,1
+934,A3,A3,normal,37.77493,-122.419416,San Francisco,California,0,0,1
+941,A3,A3,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+942,A27,A27,normal,35.373292,-119.018712,Bakersfield,California,0,0,1
+948,A51,A51,normal,38.716687,-121.364422,Antelope,California,0,0,1
+965,A7,A7,normal,40.58654,-122.391675,Redding,California,0,0,1
+969,A68,A68,normal,39.409608,-123.355566,Willits,California,0,0,1
+970,A57,A57,normal,38.161861,-121.611621,Isleton,California,0,0,1
+975,A9,A9,normal,41.526509,-124.038407,Klamath,California,0,0,1
+976,A35,A35,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+981,A64,A64,normal,34.354166,-119.059271,Santa Paula,California,0,0,1
+982,A90,A90,normal,39.409608,-123.355566,Willits,California,0,0,1
+987,A22,A22,normal,34.44805,-119.242889,Ojai,California,0,0,1
+992,A89,A89,normal,36.852455,-121.401602,Hollister,California,0,0,1
+994,A64,A64,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+996,A7,A7,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+998,A95,A95,normal,37.941325,-122.484704,San Quentin,California,0,0,1
+1001,A15,A15,normal,36.977173,-121.899402,Aptos,California,0,0,1
+1004,A6,A6,normal,37.941325,-122.484704,San Quentin,California,0,0,1
+1005,A49,A49,normal,33.743076,-117.109197,Homeland,California,0,0,1
+1006,A90,A90,normal,39.409608,-123.355566,Willits,California,0,0,1
+1015,A72,A72,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+1016,A74,A74,normal,32.715329,-117.157255,San Diego,California,0,0,1
+1017,A86,A86,normal,34.579434,-118.116461,Palmdale,California,0,0,1
+1018,A37,A37,normal,34.354166,-119.059271,Santa Paula,California,0,0,1
+1019,A22,A22,normal,37.957702,-121.29078,Stockton,California,0,0,1
+1030,A80,A80,normal,40.563763,-122.238892,Palo Cedro,California,0,0,1
+1031,A9,A9,normal,41.526509,-124.038407,Klamath,California,0,0,1
+1037,A41,A41,normal,39.150171,-123.207783,Ukiah,California,0,0,1
+1039,A97,A97,lane departure,34.106676,-117.806726,San Dimas,California,0,0,1
+1041,A66,A66,normal,36.852455,-121.401602,Hollister,California,0,0,1
+1045,A89,A89,normal,39.017396,-122.057748,Arbuckle,California,0,0,1
+1049,A74,A74,normal,32.715329,-117.157255,San Diego,California,0,0,1
+1050,A7,A7,unsafe following distance,38.019366,-122.134132,Martinez,California,0,1,1
+1052,A91,A91,normal,37.957702,-121.29078,Stockton,California,0,0,1
+1062,A51,A51,normal,32.715329,-117.157255,San Diego,California,0,0,1
+1073,A14,A14,normal,37.941325,-122.484704,San Quentin,California,0,0,1
+1076,A43,A43,normal,38.716687,-121.364422,Antelope,California,0,0,1
+1077,A32,A32,normal,37.639097,-120.996878,Modesto,California,0,0,1
+1083,A52,A52,normal,37.957702,-121.29078,Stockton,California,0,0,1
+1085,A57,A57,normal,39.409608,-123.355566,Willits,California,0,0,1
+1088,A54,A54,normal,37.77493,-122.419416,San Francisco,California,0,0,1
+1090,A4,A4,normal,37.962146,-122.345526,San Pablo,California,0,0,1
+1091,A29,A29,normal,38.805462,-123.017223,Cloverdale,California,0,0,1
+1097,A34,A34,normal,39.409608,-123.355566,Willits,California,0,0,1
+1104,A6,A6,normal,39.409608,-123.355566,Willits,California,0,0,1
+1111,A64,A64,normal,37.957702,-121.29078,Stockton,California,0,0,1
+1112,A67,A67,normal,37.957702,-121.29078,Stockton,California,0,0,1
+1116,A31,A31,normal,37.77493,-122.419416,San Francisco,California,0,0,1
+1118,A10,A10,normal,34.354166,-119.059271,Santa Paula,California,0,0,1
+1122,A1,A1,normal,37.005782,-121.568275,Gilroy,California,0,0,1
+1125,A100,A100,normal,32.715329,-117.157255,San Diego,California,0,0,1
+1129,A86,A86,normal,38.716687,-121.364422,Antelope,California,0,0,1
+1133,A45,A45,normal,33.846404,-118.046731,La Palma,California,0,0,1
+1136,A87,A87,normal,40.761243,-123.994778,Kneeland,California,0,0,1
+1144,A65,A65,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+1150,A54,A54,normal,37.484938,-119.966284,Mariposa,California,0,0,1
+1151,A32,A32,normal,38.130197,-121.272447,Lodi,California,0,0,1
+1153,A47,A47,normal,37.005782,-121.568275,Gilroy,California,0,0,1
+1155,A62,A62,normal,39.017396,-122.057748,Arbuckle,California,0,0,1
+1159,A84,A84,normal,33.663357,-116.310009,La Quinta,California,0,0,1
+1162,A95,A95,normal,34.44805,-119.242889,Ojai,California,0,0,1
+1163,A22,A22,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+1166,A51,A51,normal,37.005782,-121.568275,Gilroy,California,0,0,1
+1171,A78,A78,normal,37.639097,-120.996878,Modesto,California,0,0,1
+1172,A33,A33,normal,37.957702,-121.29078,Stockton,California,0,0,1
+1173,A76,A76,normal,33.846404,-118.046731,La Palma,California,0,0,1
+1176,A56,A56,normal,32.61768,-116.187424,Jacumba,California,0,0,1
+1181,A99,A99,normal,33.846404,-118.046731,La Palma,California,0,0,1
+1184,A5,A5,normal,39.409608,-123.355566,Willits,California,0,0,1
+1188,A74,A74,normal,37.639097,-120.996878,Modesto,California,0,0,1
+1195,A47,A47,normal,37.005782,-121.568275,Gilroy,California,0,0,1
+1200,A91,A91,normal,33.846404,-118.046731,La Palma,California,0,0,1
+1207,A45,A45,normal,33.743076,-117.109197,Homeland,California,0,0,1
+1208,A17,A17,normal,32.61768,-116.187424,Jacumba,California,0,0,1
+1210,A66,A66,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+1212,A18,A18,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+1213,A21,A21,normal,39.409608,-123.355566,Willits,California,0,0,1
+1226,A84,A84,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+1233,A37,A37,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+1237,A79,A79,normal,34.106676,-117.806726,San Dimas,California,0,0,1
+1240,A35,A35,normal,34.953034,-120.435719,Santa Maria,California,0,0,1
+1247,A91,A91,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+1250,A99,A99,normal,37.77493,-122.419416,San Francisco,California,0,0,1
+1253,A8,A8,normal,34.953034,-120.435719,Santa Maria,California,0,0,1
+1269,A70,A70,lane departure,38.440467,-122.714431,Santa Rosa,California,0,1,1
+1272,A95,A95,lane departure,34.500831,-117.185876,Apple Valley,California,0,1,1
+1276,A61,A61,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+1281,A83,A83,normal,34.020011,-117.949508,La Puente,California,0,0,1
+1294,A11,A11,normal,39.409608,-123.355566,Willits,California,0,0,1
+1297,A17,A17,normal,38.130197,-121.272447,Lodi,California,0,0,1
+1301,A15,A15,normal,36.977173,-121.899402,Aptos,California,0,0,1
+1302,A4,A4,normal,37.968812,-121.668008,Knightsen,California,0,0,1
+1303,A85,A85,normal,37.962146,-122.345526,San Pablo,California,0,0,1
+1305,A26,A26,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+1310,A61,A61,normal,38.799703,-121.720574,Knights Landing,California,0,0,1
+1314,A90,A90,normal,38.130197,-121.272447,Lodi,California,0,0,1
+1317,A35,A35,normal,39.409608,-123.355566,Willits,California,0,0,1
+1324,A94,A94,normal,37.941325,-122.484704,San Quentin,California,0,0,1
+1328,A19,A19,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+1329,A16,A16,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+1333,A90,A90,normal,39.409608,-123.355566,Willits,California,0,0,1
+1334,A98,A98,normal,38.752124,-121.288006,Roseville,California,0,0,1
+1336,A63,A63,normal,32.61768,-116.187424,Jacumba,California,0,0,1
+1339,A91,A91,normal,33.846404,-118.046731,La Palma,California,0,0,1
+1343,A14,A14,normal,34.020011,-117.949508,La Puente,California,0,0,1
+1346,A58,A58,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+1347,A77,A77,normal,37.962146,-122.345526,San Pablo,California,0,0,1
+1349,A38,A38,normal,40.563763,-122.238892,Palo Cedro,California,0,0,1
+1358,A94,A94,normal,38.716687,-121.364422,Antelope,California,0,0,1
+1365,A29,A29,normal,34.106676,-117.806726,San Dimas,California,0,0,1
+1369,A3,A3,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+1370,A2,A2,normal,32.61768,-116.187424,Jacumba,California,0,0,1
+1371,A39,A39,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+1375,A52,A52,normal,38.752124,-121.288006,Roseville,California,0,0,1
+1376,A54,A54,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+1386,A34,A34,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+1391,A69,A69,normal,36.977173,-121.899402,Aptos,California,0,0,1
+1396,A72,A72,unsafe following distance,33.846404,-118.046731,La Palma,California,0,1,1
+1404,A55,A55,normal,32.715329,-117.157255,San Diego,California,0,0,1
+1418,A29,A29,normal,33.19587,-117.379483,Oceanside,California,0,0,1
+1419,A7,A7,normal,34.44805,-119.242889,Ojai,California,0,0,1
+1420,A100,A100,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+1422,A39,A39,normal,38.716687,-121.364422,Antelope,California,0,0,1
+1426,A88,A88,normal,40.563763,-122.238892,Palo Cedro,California,0,0,1
+1427,A54,A54,normal,35.373292,-119.018712,Bakersfield,California,0,0,1
+1433,A61,A61,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+1434,A84,A84,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+1435,A61,A61,normal,40.563763,-122.238892,Palo Cedro,California,0,0,1
+1441,A39,A39,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+1442,A81,A81,normal,37.77493,-122.419416,San Francisco,California,0,0,1
+1443,A26,A26,normal,37.77493,-122.419416,San Francisco,California,0,0,1
+1446,A1,A1,normal,34.579434,-118.116461,Palmdale,California,0,0,1
+1454,A60,A60,normal,37.441883,-122.143019,Palo Alto,California,0,0,1
+1458,A7,A7,normal,40.563763,-122.238892,Palo Cedro,California,0,0,1
+1461,A12,A12,unsafe following distance,37.962146,-122.345526,San Pablo,California,0,1,1
+1468,A10,A10,normal,34.354166,-119.059271,Santa Paula,California,0,0,1
+1478,A74,A74,normal,34.579434,-118.116461,Palmdale,California,0,0,1
+1486,A58,A58,normal,37.968812,-121.668008,Knightsen,California,0,0,1
+1493,A85,A85,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+1501,A64,A64,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+1502,A95,A95,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+1513,A54,A54,normal,39.409608,-123.355566,Willits,California,0,0,1
+1516,A10,A10,normal,37.941325,-122.484704,San Quentin,California,0,0,1
+1518,A22,A22,normal,39.409608,-123.355566,Willits,California,0,0,1
+1519,A98,A98,normal,33.19587,-117.379483,Oceanside,California,0,0,1
+1521,A37,A37,normal,37.441883,-122.143019,Palo Alto,California,0,0,1
+1522,A87,A87,normal,37.441883,-122.143019,Palo Alto,California,0,0,1
+1524,A4,A4,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+1528,A66,A66,normal,38.716687,-121.364422,Antelope,California,0,0,1
+1534,A78,A78,normal,38.130197,-121.272447,Lodi,California,0,0,1
+1535,A35,A35,normal,37.77493,-122.419416,San Francisco,California,0,0,1
+1537,A99,A99,unsafe following distance,33.743076,-117.109197,Homeland,California,0,1,1
+1542,A94,A94,normal,32.811161,-115.380264,Holtville,California,0,0,1
+1545,A63,A63,normal,38.716687,-121.364422,Antelope,California,0,0,1
+1550,A58,A58,normal,34.136119,-117.865339,Glendora,California,0,0,1
+1554,A51,A51,normal,38.693723,-119.779683,Markleeville,California,0,0,1
+1570,A85,A85,normal,39.017396,-122.057748,Arbuckle,California,0,0,1
+1572,A67,A67,normal,33.683947,-117.794694,Irvine,California,0,0,1
+1577,A20,A20,normal,38.716687,-121.364422,Antelope,California,0,0,1
+1578,A9,A9,normal,38.130197,-121.272447,Lodi,California,0,0,1
+1587,A94,A94,lane departure,39.017396,-122.057748,Arbuckle,California,0,1,1
+1588,A71,A71,normal,36.471865,-6.196595,San Fernando,California,0,0,1
+1599,A38,A38,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+1600,A100,A100,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+1602,A78,A78,normal,34.579434,-118.116461,Palmdale,California,0,0,1
+1603,A29,A29,normal,34.435829,-119.827639,Goleta,California,0,0,1
+1606,A35,A35,normal,36.852455,-121.401602,Hollister,California,0,0,1
+1613,A1,A1,normal,35.098865,-120.612393,Oceano,California,0,0,1
+1618,A9,A9,normal,41.526509,-124.038407,Klamath,California,0,0,1
+1621,A23,A23,normal,36.977173,-121.899402,Aptos,California,0,0,1
+1622,A30,A30,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+1624,A64,A64,normal,37.957702,-121.29078,Stockton,California,0,0,1
+1631,A77,A77,normal,39.145725,-121.591355,Marysville,California,0,0,1
+1632,A44,A44,normal,37.957702,-121.29078,Stockton,California,0,0,1
+1633,A93,A93,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+1639,A24,A24,normal,38.297538,-122.286865,Napa,California,0,0,1
+1647,A98,A98,normal,33.683947,-117.794694,Irvine,California,0,0,1
+1648,A89,A89,normal,37.77493,-122.419416,San Francisco,California,0,0,1
+1664,A41,A41,normal,39.409608,-123.355566,Willits,California,0,0,1
+1675,A29,A29,normal,38.752124,-121.288006,Roseville,California,0,0,1
+1684,A61,A61,normal,33.663357,-116.310009,La Quinta,California,0,0,1
+1691,A84,A84,normal,39.409608,-123.355566,Willits,California,0,0,1
+1695,A10,A10,normal,39.409608,-123.355566,Willits,California,0,0,1
+1700,A96,A96,normal,37.962146,-122.345526,San Pablo,California,0,0,1
+1714,A79,A79,normal,38.805462,-123.017223,Cloverdale,California,0,0,1
+1716,A27,A27,normal,37.484938,-119.966284,Mariposa,California,0,0,1
+1719,A13,A13,normal,37.957702,-121.29078,Stockton,California,0,0,1
+1722,A48,A48,normal,37.957702,-121.29078,Stockton,California,0,0,1
+1723,A99,A99,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+1736,A8,A8,normal,39.409608,-123.355566,Willits,California,0,0,1
+1740,A80,A80,normal,38.019366,-122.134132,Martinez,California,0,0,1
+1743,A74,A74,normal,34.106676,-117.806726,San Dimas,California,0,0,1
+1758,A10,A10,normal,34.354166,-119.059271,Santa Paula,California,0,0,1
+1766,A54,A54,normal,34.953034,-120.435719,Santa Maria,California,0,0,1
+1784,A12,A12,normal,39.409608,-123.355566,Willits,California,0,0,1
+1789,A79,A79,normal,34.106676,-117.806726,San Dimas,California,0,0,1
+1801,A46,A46,normal,35.373292,-119.018712,Bakersfield,California,0,0,1
+1807,A49,A49,normal,39.409608,-123.355566,Willits,California,0,0,1
+1819,A78,A78,normal,38.130197,-121.272447,Lodi,California,0,0,1
+1830,A63,A63,normal,38.716687,-121.364422,Antelope,California,0,0,1
+1833,A78,A78,normal,33.846404,-118.046731,La Palma,California,0,0,1
+1836,A29,A29,normal,33.19587,-117.379483,Oceanside,California,0,0,1
+1843,A23,A23,normal,36.746842,-119.772587,Fresno,California,0,0,1
+1848,A23,A23,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+1852,A95,A95,unsafe following distance,33.743076,-117.109197,Homeland,California,0,1,1
+1853,A17,A17,normal,41.526509,-124.038407,Klamath,California,0,0,1
+1859,A68,A68,normal,38.161861,-121.611621,Isleton,California,0,0,1
+1861,A40,A40,normal,37.957702,-121.29078,Stockton,California,0,0,1
+1890,A18,A18,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+1891,A45,A45,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+1897,A71,A71,normal,32.811161,-115.380264,Holtville,California,0,0,1
+1902,A15,A15,normal,38.40765,-122.947713,Occidental,California,0,0,1
+1909,A23,A23,normal,36.746842,-119.772587,Fresno,California,0,0,1
+1914,A68,A68,normal,34.354166,-119.059271,Santa Paula,California,0,0,1
+1919,A86,A86,normal,33.846404,-118.046731,La Palma,California,0,0,1
+1920,A32,A32,normal,37.005782,-121.568275,Gilroy,California,0,0,1
+1932,A3,A3,normal,36.471865,-6.196595,San Fernando,California,0,0,1
+1935,A4,A4,normal,37.962146,-122.345526,San Pablo,California,0,0,1
+1937,A43,A43,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+1941,A30,A30,normal,36.471865,-6.196595,San Fernando,California,0,0,1
+1950,A37,A37,normal,39.409608,-123.355566,Willits,California,0,0,1
+1952,A23,A23,normal,39.409608,-123.355566,Willits,California,0,0,1
+1956,A16,A16,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+1957,A22,A22,normal,33.743076,-117.109197,Homeland,California,0,0,1
+1965,A56,A56,normal,34.106676,-117.806726,San Dimas,California,0,0,1
+1976,A81,A81,normal,35.373292,-119.018712,Bakersfield,California,0,0,1
+1979,A13,A13,normal,37.957702,-121.29078,Stockton,California,0,0,1
+1996,A59,A59,normal,33.846404,-118.046731,La Palma,California,0,0,1
+1999,A18,A18,normal,37.77493,-122.419416,San Francisco,California,0,0,1
+2005,A94,A94,normal,33.19587,-117.379483,Oceanside,California,0,0,1
+2006,A70,A70,normal,38.716687,-121.364422,Antelope,California,0,0,1
+2008,A17,A17,normal,32.811161,-115.380264,Holtville,California,0,0,1
+2012,A74,A74,normal,36.852455,-121.401602,Hollister,California,0,0,1
+2016,A72,A72,normal,37.77493,-122.419416,San Francisco,California,0,0,1
+2019,A26,A26,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+2024,A3,A3,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+2025,A63,A63,normal,37.957702,-121.29078,Stockton,California,0,0,1
+2028,A97,A97,normal,39.017396,-122.057748,Arbuckle,California,0,0,1
+2029,A53,A53,normal,38.161861,-121.611621,Isleton,California,0,0,1
+2032,A93,A93,normal,39.017396,-122.057748,Arbuckle,California,0,0,1
+2037,A52,A52,normal,34.435829,-119.827639,Goleta,California,0,0,1
+2039,A44,A44,normal,33.683947,-117.794694,Irvine,California,0,0,1
+2045,A9,A9,normal,34.579434,-118.116461,Palmdale,California,0,0,1
+2050,A83,A83,normal,34.354166,-119.059271,Santa Paula,California,0,0,1
+2055,A56,A56,normal,34.435829,-119.827639,Goleta,California,0,0,1
+2062,A69,A69,normal,36.977173,-121.899402,Aptos,California,0,0,1
+2063,A91,A91,normal,33.846404,-118.046731,La Palma,California,0,0,1
+2064,A87,A87,normal,37.941325,-122.484704,San Quentin,California,0,0,1
+2072,A77,A77,normal,37.77493,-122.419416,San Francisco,California,0,0,1
+2075,A93,A93,normal,36.852455,-121.401602,Hollister,California,0,0,1
+2076,A57,A57,normal,40.563763,-122.238892,Palo Cedro,California,0,0,1
+2077,A10,A10,normal,34.354166,-119.059271,Santa Paula,California,0,0,1
+2083,A94,A94,normal,32.61768,-116.187424,Jacumba,California,0,0,1
+2086,A25,A25,normal,33.683947,-117.794694,Irvine,California,0,0,1
+2087,A88,A88,normal,40.563763,-122.238892,Palo Cedro,California,0,0,1
+2088,A94,A94,normal,37.957702,-121.29078,Stockton,California,0,0,1
+2091,A57,A57,normal,38.019366,-122.134132,Martinez,California,0,0,1
+2096,A12,A12,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+2112,A75,A75,normal,39.017396,-122.057748,Arbuckle,California,0,0,1
+2113,A49,A49,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+2115,A71,A71,normal,32.811161,-115.380264,Holtville,California,0,0,1
+2120,A80,A80,normal,40.563763,-122.238892,Palo Cedro,California,0,0,1
+2121,A34,A34,normal,36.471865,-6.196595,San Fernando,California,0,0,1
+2122,A61,A61,normal,35.373292,-119.018712,Bakersfield,California,0,0,1
+2129,A88,A88,normal,33.663357,-116.310009,La Quinta,California,0,0,1
+2130,A2,A2,normal,36.471865,-6.196595,San Fernando,California,0,0,1
+2134,A80,A80,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+2135,A44,A44,normal,33.683947,-117.794694,Irvine,California,0,0,1
+2139,A20,A20,normal,37.968812,-121.668008,Knightsen,California,0,0,1
+2141,A43,A43,normal,38.716687,-121.364422,Antelope,California,0,0,1
+2145,A45,A45,normal,33.846404,-118.046731,La Palma,California,0,0,1
+2147,A33,A33,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+2152,A63,A63,normal,39.409608,-123.355566,Willits,California,0,0,1
+2153,A30,A30,normal,40.563763,-122.238892,Palo Cedro,California,0,0,1
+2154,A26,A26,normal,38.161861,-121.611621,Isleton,California,0,0,1
+2159,A8,A8,normal,39.145725,-121.591355,Marysville,California,0,0,1
+2163,A22,A22,normal,37.957702,-121.29078,Stockton,California,0,0,1
+2164,A37,A37,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+2165,A64,A64,unsafe tail distance,34.500831,-117.185876,Apple Valley,California,0,1,1
+2168,A93,A93,normal,39.017396,-122.057748,Arbuckle,California,0,0,1
+2174,A56,A56,normal,34.435829,-119.827639,Goleta,California,0,0,1
+2178,A65,A65,normal,33.663357,-116.310009,La Quinta,California,0,0,1
+2179,A24,A24,normal,34.106676,-117.806726,San Dimas,California,0,0,1
+2180,A80,A80,normal,40.58654,-122.391675,Redding,California,0,0,1
+2191,A4,A4,normal,39.145725,-121.591355,Marysville,California,0,0,1
+2192,A17,A17,normal,38.130197,-121.272447,Lodi,California,0,0,1
+2194,A29,A29,normal,37.441883,-122.143019,Palo Alto,California,0,0,1
+2201,A6,A6,normal,40.761243,-123.994778,Kneeland,California,0,0,1
+2202,A83,A83,lane departure,37.441883,-122.143019,Palo Alto,California,0,1,1
+2203,A18,A18,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+2205,A37,A37,normal,37.957702,-121.29078,Stockton,California,0,0,1
+2206,A82,A82,normal,38.130197,-121.272447,Lodi,California,0,0,1
+2208,A45,A45,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+2216,A18,A18,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+2221,A52,A52,normal,32.811161,-115.380264,Holtville,California,0,0,1
+2224,A58,A58,normal,39.145725,-121.591355,Marysville,California,0,0,1
+2225,A90,A90,normal,34.019454,-118.491191,Santa Monica,California,0,0,1
+2233,A63,A63,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+2242,A46,A46,normal,35.373292,-119.018712,Bakersfield,California,0,0,1
+2245,A30,A30,normal,38.019366,-122.134132,Martinez,California,0,0,1
+2249,A92,A92,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+2254,A18,A18,normal,40.58654,-122.391675,Redding,California,0,0,1
+2262,A11,A11,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+2267,A18,A18,normal,37.941325,-122.484704,San Quentin,California,0,0,1
+2271,A73,A73,normal,32.715329,-117.157255,San Diego,California,0,0,1
+2273,A35,A35,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+2285,A25,A25,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+2288,A17,A17,normal,39.409608,-123.355566,Willits,California,0,0,1
+2292,A26,A26,normal,34.44805,-119.242889,Ojai,California,0,0,1
+2294,A73,A73,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+2296,A62,A62,normal,37.962146,-122.345526,San Pablo,California,0,0,1
+2305,A71,A71,normal,39.017396,-122.057748,Arbuckle,California,0,0,1
+2309,A51,A51,normal,38.297538,-122.286865,Napa,California,0,0,1
+2310,A7,A7,normal,40.563763,-122.238892,Palo Cedro,California,0,0,1
+2313,A100,A100,normal,37.77493,-122.419416,San Francisco,California,0,0,1
+2324,A74,A74,normal,38.716687,-121.364422,Antelope,California,0,0,1
+2326,A80,A80,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+2332,A5,A5,unsafe following distance,35.098865,-120.612393,Oceano,California,0,1,1
+2336,A20,A20,normal,39.017396,-122.057748,Arbuckle,California,0,0,1
+2343,A72,A72,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+2346,A27,A27,normal,36.977173,-121.899402,Aptos,California,0,0,1
+2347,A91,A91,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+2349,A97,A97,normal,38.693723,-119.779683,Markleeville,California,0,0,1
+2358,A98,A98,normal,32.61768,-116.187424,Jacumba,California,0,0,1
+2363,A100,A100,normal,37.962146,-122.345526,San Pablo,California,0,0,1
+2364,A80,A80,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+2370,A51,A51,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+2375,A6,A6,normal,34.435829,-119.827639,Goleta,California,0,0,1
+2379,A16,A16,normal,37.968812,-121.668008,Knightsen,California,0,0,1
+2380,A85,A85,normal,39.409608,-123.355566,Willits,California,0,0,1
+2381,A73,A73,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+2383,A36,A36,lane departure,34.019454,-118.491191,Santa Monica,California,0,1,1
+2396,A77,A77,normal,37.77493,-122.419416,San Francisco,California,0,0,1
+2397,A67,A67,normal,32.61768,-116.187424,Jacumba,California,0,0,1
+2401,A13,A13,normal,39.409608,-123.355566,Willits,California,0,0,1
+2407,A5,A5,normal,32.715329,-117.157255,San Diego,California,0,0,1
+2410,A56,A56,normal,34.020011,-117.949508,La Puente,California,0,0,1
+2412,A61,A61,normal,33.663357,-116.310009,La Quinta,California,0,0,1
+2422,A72,A72,lane departure,38.161861,-121.611621,Isleton,California,0,1,1
+2423,A14,A14,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+2440,A32,A32,unsafe following distance,34.579434,-118.116461,Palmdale,California,0,1,1
+2441,A69,A69,normal,39.230151,-121.136075,Rough and Ready,California,0,0,1
+2444,A92,A92,normal,35.373292,-119.018712,Bakersfield,California,0,0,1
+2451,A64,A64,normal,34.020011,-117.949508,La Puente,California,0,0,1
+2460,A48,A48,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+2469,A33,A33,normal,34.020011,-117.949508,La Puente,California,0,0,1
+2476,A95,A95,normal,39.150171,-123.207783,Ukiah,California,0,0,1
+2477,A97,A97,normal,37.639097,-120.996878,Modesto,California,0,0,1
+2478,A30,A30,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+2484,A54,A54,normal,39.409608,-123.355566,Willits,California,0,0,1
+2485,A93,A93,lane departure,36.852455,-121.401602,Hollister,California,0,1,1
+2487,A94,A94,normal,38.130197,-121.272447,Lodi,California,0,0,1
+2489,A88,A88,normal,40.563763,-122.238892,Palo Cedro,California,0,0,1
+2495,A50,A50,normal,36.977173,-121.899402,Aptos,California,0,0,1
+2497,A27,A27,normal,34.136119,-117.865339,Glendora,California,0,0,1
+2500,A4,A4,normal,37.962146,-122.345526,San Pablo,California,0,0,1
+2501,A83,A83,normal,37.941325,-122.484704,San Quentin,California,0,0,1
+2502,A65,A65,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+2503,A59,A59,normal,32.61768,-116.187424,Jacumba,California,0,0,1
+2505,A5,A5,normal,38.716687,-121.364422,Antelope,California,0,0,1
+2507,A37,A37,normal,37.441883,-122.143019,Palo Alto,California,0,0,1
+2517,A50,A50,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+2518,A38,A38,unsafe tail distance,34.500831,-117.185876,Apple Valley,California,0,1,1
+2521,A75,A75,normal,32.811161,-115.380264,Holtville,California,0,0,1
+2522,A72,A72,normal,38.161861,-121.611621,Isleton,California,0,0,1
+2526,A75,A75,normal,33.19587,-117.379483,Oceanside,California,0,0,1
+2531,A97,A97,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+2532,A6,A6,normal,37.441883,-122.143019,Palo Alto,California,0,0,1
+2536,A46,A46,normal,37.484938,-119.966284,Mariposa,California,0,0,1
+2537,A54,A54,normal,39.145725,-121.591355,Marysville,California,0,0,1
+2542,A96,A96,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+2544,A99,A99,normal,33.846404,-118.046731,La Palma,California,0,0,1
+2545,A88,A88,normal,36.471865,-6.196595,San Fernando,California,0,0,1
+2548,A48,A48,normal,33.19587,-117.379483,Oceanside,California,0,0,1
+2549,A17,A17,normal,32.61768,-116.187424,Jacumba,California,0,0,1
+2560,A62,A62,normal,34.953034,-120.435719,Santa Maria,California,0,0,1
+2567,A52,A52,normal,32.61768,-116.187424,Jacumba,California,0,0,1
+2573,A58,A58,normal,34.953034,-120.435719,Santa Maria,California,0,0,1
+2574,A48,A48,normal,33.19587,-117.379483,Oceanside,California,0,0,1
+2576,A24,A24,normal,38.716687,-121.364422,Antelope,California,0,0,1
+2581,A23,A23,normal,39.409608,-123.355566,Willits,California,0,0,1
+2583,A8,A8,normal,39.409608,-123.355566,Willits,California,0,0,1
+2585,A20,A20,normal,39.017396,-122.057748,Arbuckle,California,0,0,1
+2605,A53,A53,normal,33.663357,-116.310009,La Quinta,California,0,0,1
+2606,A5,A5,normal,34.579434,-118.116461,Palmdale,California,0,0,1
+2608,A45,A45,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+2612,A33,A33,normal,38.36408,-122.524149,Glen Ellen,California,0,0,1
+2626,A33,A33,normal,32.61768,-116.187424,Jacumba,California,0,0,1
+2628,A52,A52,normal,33.683947,-117.794694,Irvine,California,0,0,1
+2631,A43,A43,normal,36.977173,-121.899402,Aptos,California,0,0,1
+2639,A41,A41,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+2645,A71,A71,normal,33.683947,-117.794694,Irvine,California,0,0,1
+2647,A94,A94,lane departure,38.716687,-121.364422,Antelope,California,0,1,1
+2650,A56,A56,normal,34.435829,-119.827639,Goleta,California,0,0,1
+2655,A60,A60,normal,39.409608,-123.355566,Willits,California,0,0,1
+2659,A9,A9,normal,37.957702,-121.29078,Stockton,California,0,0,1
+2660,A10,A10,normal,40.761243,-123.994778,Kneeland,California,0,0,1
+2662,A92,A92,normal,36.977173,-121.899402,Aptos,California,0,0,1
+2665,A2,A2,normal,38.752124,-121.288006,Roseville,California,0,0,1
+2670,A32,A32,normal,37.639097,-120.996878,Modesto,California,0,0,1
+2675,A82,A82,normal,34.019454,-118.491191,Santa Monica,California,0,0,1
+2681,A76,A76,normal,38.161861,-121.611621,Isleton,California,0,0,1
+2684,A21,A21,normal,32.61768,-116.187424,Jacumba,California,0,0,1
+2689,A8,A8,normal,34.953034,-120.435719,Santa Maria,California,0,0,1
+2691,A45,A45,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+2698,A2,A2,normal,37.441883,-122.143019,Palo Alto,California,0,0,1
+2700,A53,A53,normal,40.58654,-122.391675,Redding,California,0,0,1
+2702,A34,A34,normal,39.409608,-123.355566,Willits,California,0,0,1
+2703,A99,A99,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+2709,A49,A49,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+2717,A87,A87,normal,34.354166,-119.059271,Santa Paula,California,0,0,1
+2718,A81,A81,normal,34.136119,-117.865339,Glendora,California,0,0,1
+2722,A61,A61,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+2723,A27,A27,normal,35.373292,-119.018712,Bakersfield,California,0,0,1
+2726,A61,A61,normal,39.409608,-123.355566,Willits,California,0,0,1
+2727,A21,A21,normal,38.752124,-121.288006,Roseville,California,0,0,1
+2729,A69,A69,normal,36.977173,-121.899402,Aptos,California,0,0,1
+2731,A36,A36,normal,41.526509,-124.038407,Klamath,California,0,0,1
+2739,A29,A29,normal,37.941325,-122.484704,San Quentin,California,0,0,1
+2744,A4,A4,normal,37.484938,-119.966284,Mariposa,California,0,0,1
+2747,A59,A59,normal,33.683947,-117.794694,Irvine,California,0,0,1
+2749,A93,A93,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+2757,A49,A49,normal,39.409608,-123.355566,Willits,California,0,0,1
+2762,A78,A78,normal,32.715329,-117.157255,San Diego,California,0,0,1
+2763,A44,A44,normal,36.471865,-6.196595,San Fernando,California,0,0,1
+2766,A26,A26,normal,34.44805,-119.242889,Ojai,California,0,0,1
+2771,A9,A9,normal,38.130197,-121.272447,Lodi,California,0,0,1
+2773,A8,A8,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+2781,A13,A13,normal,34.019454,-118.491191,Santa Monica,California,0,0,1
+2782,A4,A4,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+2783,A31,A31,normal,37.962146,-122.345526,San Pablo,California,0,0,1
+2804,A8,A8,normal,37.962146,-122.345526,San Pablo,California,0,0,1
+2805,A94,A94,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+2807,A31,A31,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+2813,A90,A90,normal,39.017396,-122.057748,Arbuckle,California,0,0,1
+2821,A69,A69,normal,36.977173,-121.899402,Aptos,California,0,0,1
+2824,A89,A89,normal,37.962146,-122.345526,San Pablo,California,0,0,1
+2826,A40,A40,normal,39.017396,-122.057748,Arbuckle,California,0,0,1
+2829,A86,A86,normal,34.579434,-118.116461,Palmdale,California,0,0,1
+2832,A76,A76,normal,33.743076,-117.109197,Homeland,California,0,0,1
+2837,A10,A10,normal,39.409608,-123.355566,Willits,California,0,0,1
+2839,A65,A65,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+2842,A81,A81,normal,34.953034,-120.435719,Santa Maria,California,0,0,1
+2847,A19,A19,normal,38.799703,-121.720574,Knights Landing,California,0,0,1
+2850,A23,A23,normal,35.373292,-119.018712,Bakersfield,California,0,0,1
+2866,A43,A43,normal,37.639097,-120.996878,Modesto,California,0,0,1
+2881,A17,A17,normal,37.957702,-121.29078,Stockton,California,0,0,1
+2885,A86,A86,unsafe following distance,41.526509,-124.038407,Klamath,California,0,1,1
+2889,A77,A77,normal,35.373292,-119.018712,Bakersfield,California,0,0,1
+2890,A41,A41,normal,37.957702,-121.29078,Stockton,California,0,0,1
+2898,A51,A51,normal,34.579434,-118.116461,Palmdale,California,0,0,1
+2906,A6,A6,normal,34.106676,-117.806726,San Dimas,California,0,0,1
+2909,A100,A100,normal,32.715329,-117.157255,San Diego,California,0,0,1
+2912,A35,A35,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+2925,A75,A75,normal,37.941325,-122.484704,San Quentin,California,0,0,1
+2927,A20,A20,normal,38.693723,-119.779683,Markleeville,California,0,0,1
+2934,A97,A97,normal,36.977173,-121.899402,Aptos,California,0,0,1
+2937,A59,A59,normal,32.715329,-117.157255,San Diego,California,0,0,1
+2938,A35,A35,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+2942,A100,A100,normal,32.715329,-117.157255,San Diego,California,0,0,1
+2944,A74,A74,normal,37.639097,-120.996878,Modesto,California,0,0,1
+2945,A18,A18,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+2953,A81,A81,normal,37.484938,-119.966284,Mariposa,California,0,0,1
+2959,A78,A78,normal,35.098865,-120.612393,Oceano,California,0,0,1
+2965,A21,A21,normal,33.19587,-117.379483,Oceanside,California,0,0,1
+2966,A63,A63,normal,33.846404,-118.046731,La Palma,California,0,0,1
+2968,A13,A13,normal,38.716687,-121.364422,Antelope,California,0,0,1
+2973,A20,A20,normal,39.017396,-122.057748,Arbuckle,California,0,0,1
+2974,A39,A39,normal,39.409608,-123.355566,Willits,California,0,0,1
+2976,A49,A49,normal,34.44805,-119.242889,Ojai,California,0,0,1
+2982,A64,A64,normal,37.941325,-122.484704,San Quentin,California,0,0,1
+2983,A64,A64,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+2995,A76,A76,normal,38.161861,-121.611621,Isleton,California,0,0,1
+3003,A84,A84,normal,33.663357,-116.310009,La Quinta,California,0,0,1
+3004,A93,A93,normal,34.106676,-117.806726,San Dimas,California,0,0,1
+3010,A58,A58,normal,35.373292,-119.018712,Bakersfield,California,0,0,1
+3013,A63,A63,normal,36.471865,-6.196595,San Fernando,California,0,0,1
+3019,A22,A22,normal,39.409608,-123.355566,Willits,California,0,0,1
+3021,A95,A95,normal,38.019366,-122.134132,Martinez,California,0,0,1
+3022,A9,A9,normal,38.716687,-121.364422,Antelope,California,0,0,1
+3024,A26,A26,normal,39.409608,-123.355566,Willits,California,0,0,1
+3037,A19,A19,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+3043,A51,A51,normal,34.106676,-117.806726,San Dimas,California,0,0,1
+3048,A75,A75,normal,32.811161,-115.380264,Holtville,California,0,0,1
+3051,A6,A6,normal,38.805462,-123.017223,Cloverdale,California,0,0,1
+3059,A14,A14,normal,37.957702,-121.29078,Stockton,California,0,0,1
+3064,A63,A63,normal,39.409608,-123.355566,Willits,California,0,0,1
+3070,A30,A30,normal,34.44805,-119.242889,Ojai,California,0,0,1
+3072,A42,A42,normal,36.977173,-121.899402,Aptos,California,0,0,1
+3075,A50,A50,normal,32.715329,-117.157255,San Diego,California,0,0,1
+3088,A69,A69,normal,36.977173,-121.899402,Aptos,California,0,0,1
+3098,A54,A54,normal,37.484938,-119.966284,Mariposa,California,0,0,1
+3100,A90,A90,normal,32.61768,-116.187424,Jacumba,California,0,0,1
+3103,A86,A86,normal,38.716687,-121.364422,Antelope,California,0,0,1
+3105,A32,A32,normal,34.579434,-118.116461,Palmdale,California,0,0,1
+3116,A51,A51,normal,38.130197,-121.272447,Lodi,California,0,0,1
+3117,A16,A16,normal,37.968812,-121.668008,Knightsen,California,0,0,1
+3118,A13,A13,normal,39.409608,-123.355566,Willits,California,0,0,1
+3121,A88,A88,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+3131,A20,A20,normal,39.017396,-122.057748,Arbuckle,California,0,0,1
+3132,A69,A69,normal,32.715329,-117.157255,San Diego,California,0,0,1
+3147,A72,A72,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+3148,A99,A99,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+3151,A61,A61,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+3154,A52,A52,normal,38.36408,-122.524149,Glen Ellen,California,0,0,1
+3157,A68,A68,normal,33.743076,-117.109197,Homeland,California,0,0,1
+3161,A55,A55,normal,34.579434,-118.116461,Palmdale,California,0,0,1
+3167,A36,A36,normal,34.579434,-118.116461,Palmdale,California,0,0,1
+3170,A39,A39,normal,39.017396,-122.057748,Arbuckle,California,0,0,1
+3171,A48,A48,normal,38.752124,-121.288006,Roseville,California,0,0,1
+3172,A77,A77,normal,39.145725,-121.591355,Marysville,California,0,0,1
+3182,A50,A50,normal,37.484938,-119.966284,Mariposa,California,0,0,1
+3184,A22,A22,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+3189,A39,A39,normal,37.962146,-122.345526,San Pablo,California,0,0,1
+3193,A24,A24,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+3194,A95,A95,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+3195,A47,A47,normal,38.716687,-121.364422,Antelope,California,0,0,1
+3196,A88,A88,normal,38.799703,-121.720574,Knights Landing,California,0,0,1
+3210,A83,A83,normal,37.441883,-122.143019,Palo Alto,California,0,0,1
+3212,A75,A75,normal,34.106676,-117.806726,San Dimas,California,0,0,1
+3215,A69,A69,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+3222,A65,A65,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+3230,A64,A64,normal,33.743076,-117.109197,Homeland,California,0,0,1
+3231,A26,A26,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+3238,A98,A98,normal,39.017396,-122.057748,Arbuckle,California,0,0,1
+3241,A67,A67,lane departure,38.440467,-122.714431,Santa Rosa,California,0,1,1
+3242,A27,A27,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+3247,A61,A61,normal,35.373292,-119.018712,Bakersfield,California,0,0,1
+3249,A94,A94,normal,32.811161,-115.380264,Holtville,California,0,0,1
+3250,A8,A8,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+3253,A19,A19,normal,36.977173,-121.899402,Aptos,California,0,0,1
+3258,A63,A63,normal,41.526509,-124.038407,Klamath,California,0,0,1
+3261,A8,A8,normal,37.962146,-122.345526,San Pablo,California,0,0,1
+3272,A3,A3,normal,40.58654,-122.391675,Redding,California,0,0,1
+3275,A100,A100,normal,39.230151,-121.136075,Rough and Ready,California,0,0,1
+3276,A11,A11,unsafe following distance,36.977173,-121.899402,Aptos,California,0,1,1
+3290,A8,A8,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+3291,A48,A48,normal,38.805462,-123.017223,Cloverdale,California,0,0,1
+3294,A30,A30,normal,38.019366,-122.134132,Martinez,California,0,0,1
+3309,A72,A72,normal,33.846404,-118.046731,La Palma,California,0,0,1
+3310,A44,A44,normal,36.471865,-6.196595,San Fernando,California,0,0,1
+3311,A7,A7,normal,36.471865,-6.196595,San Fernando,California,0,0,1
+3317,A39,A39,normal,36.977173,-121.899402,Aptos,California,0,0,1
+3329,A25,A25,normal,33.19587,-117.379483,Oceanside,California,0,0,1
+3335,A91,A91,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+3340,A63,A63,normal,37.957702,-121.29078,Stockton,California,0,0,1
+3348,A53,A53,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+3350,A76,A76,normal,33.846404,-118.046731,La Palma,California,0,0,1
+3351,A32,A32,normal,41.526509,-124.038407,Klamath,California,0,0,1
+3355,A82,A82,normal,38.297538,-122.286865,Napa,California,0,0,1
+3356,A41,A41,normal,40.761243,-123.994778,Kneeland,California,0,0,1
+3362,A33,A33,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+3363,A43,A43,normal,37.968812,-121.668008,Knightsen,California,0,0,1
+3364,A89,A89,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+3366,A1,A1,normal,38.130197,-121.272447,Lodi,California,0,0,1
+3369,A63,A63,normal,34.579434,-118.116461,Palmdale,California,0,0,1
+3373,A72,A72,normal,36.471865,-6.196595,San Fernando,California,0,0,1
+3377,A96,A96,normal,36.746842,-119.772587,Fresno,California,0,0,1
+3380,A41,A41,normal,33.743076,-117.109197,Homeland,California,0,0,1
+3383,A30,A30,normal,39.409608,-123.355566,Willits,California,0,0,1
+3384,A27,A27,normal,39.145725,-121.591355,Marysville,California,0,0,1
+3385,A9,A9,normal,33.683947,-117.794694,Irvine,California,0,0,1
+3389,A3,A3,normal,40.58654,-122.391675,Redding,California,0,0,1
+3397,A38,A38,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+3398,A7,A7,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+3403,A67,A67,normal,37.957702,-121.29078,Stockton,California,0,0,1
+3411,A41,A41,normal,34.020011,-117.949508,La Puente,California,0,0,1
+3414,A43,A43,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+3415,A32,A32,normal,38.716687,-121.364422,Antelope,California,0,0,1
+3422,A60,A60,normal,37.441883,-122.143019,Palo Alto,California,0,0,1
+3424,A32,A32,normal,33.846404,-118.046731,La Palma,California,0,0,1
+3427,A99,A99,normal,39.150171,-123.207783,Ukiah,California,0,0,1
+3428,A86,A86,normal,33.683947,-117.794694,Irvine,California,0,0,1
+3434,A81,A81,normal,37.962146,-122.345526,San Pablo,California,0,0,1
+3437,A54,A54,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+3439,A93,A93,normal,39.017396,-122.057748,Arbuckle,California,0,0,1
+3452,A45,A45,normal,39.409608,-123.355566,Willits,California,0,0,1
+3458,A58,A58,normal,38.716687,-121.364422,Antelope,California,0,0,1
+3460,A7,A7,normal,40.563763,-122.238892,Palo Cedro,California,0,0,1
+3461,A71,A71,unsafe following distance,36.471865,-6.196595,San Fernando,California,0,1,1
+3470,A94,A94,normal,38.130197,-121.272447,Lodi,California,0,0,1
+3471,A83,A83,normal,37.441883,-122.143019,Palo Alto,California,0,0,1
+3473,A73,A73,normal,38.40765,-122.947713,Occidental,California,0,0,1
+3493,A91,A91,normal,40.761243,-123.994778,Kneeland,California,0,0,1
+3497,A71,A71,normal,38.752124,-121.288006,Roseville,California,0,0,1
+3501,A62,A62,normal,34.106676,-117.806726,San Dimas,California,0,0,1
+3502,A84,A84,normal,33.663357,-116.310009,La Quinta,California,0,0,1
+3506,A4,A4,normal,37.962146,-122.345526,San Pablo,California,0,0,1
+3509,A3,A3,normal,37.77493,-122.419416,San Francisco,California,0,0,1
+3519,A49,A49,normal,39.150171,-123.207783,Ukiah,California,0,0,1
+3522,A11,A11,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+3534,A40,A40,normal,38.752124,-121.288006,Roseville,California,0,0,1
+3538,A10,A10,normal,39.409608,-123.355566,Willits,California,0,0,1
+3540,A18,A18,normal,37.957702,-121.29078,Stockton,California,0,0,1
+3543,A70,A70,normal,37.005782,-121.568275,Gilroy,California,0,0,1
+3545,A35,A35,normal,37.962146,-122.345526,San Pablo,California,0,0,1
+3548,A25,A25,normal,34.435829,-119.827639,Goleta,California,0,0,1
+3561,A31,A31,normal,37.962146,-122.345526,San Pablo,California,0,0,1
+3562,A8,A8,normal,39.409608,-123.355566,Willits,California,0,0,1
+3568,A67,A67,normal,38.130197,-121.272447,Lodi,California,0,0,1
+3570,A52,A52,normal,38.36408,-122.524149,Glen Ellen,California,0,0,1
+3571,A73,A73,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+3577,A62,A62,normal,39.409608,-123.355566,Willits,California,0,0,1
+3578,A34,A34,normal,40.563763,-122.238892,Palo Cedro,California,0,0,1
+3580,A37,A37,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+3583,A68,A68,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+3588,A96,A96,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+3590,A2,A2,normal,38.752124,-121.288006,Roseville,California,0,0,1
+3591,A55,A55,normal,38.693723,-119.779683,Markleeville,California,0,0,1
+3602,A96,A96,normal,32.715329,-117.157255,San Diego,California,0,0,1
+3608,A84,A84,normal,38.019366,-122.134132,Martinez,California,0,0,1
+3609,A100,A100,unsafe following distance,34.500831,-117.185876,Apple Valley,California,0,1,1
+3611,A34,A34,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+3618,A29,A29,normal,34.020011,-117.949508,La Puente,California,0,0,1
+3621,A23,A23,normal,38.40765,-122.947713,Occidental,California,0,0,1
+3623,A70,A70,normal,37.005782,-121.568275,Gilroy,California,0,0,1
+3624,A53,A53,normal,33.663357,-116.310009,La Quinta,California,0,0,1
+3626,A77,A77,normal,39.145725,-121.591355,Marysville,California,0,0,1
+3641,A21,A21,normal,38.752124,-121.288006,Roseville,California,0,0,1
+3647,A23,A23,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+3649,A85,A85,normal,39.409608,-123.355566,Willits,California,0,0,1
+3650,A59,A59,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+3656,A21,A21,normal,39.409608,-123.355566,Willits,California,0,0,1
+3658,A24,A24,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+3668,A12,A12,normal,38.716687,-121.364422,Antelope,California,0,0,1
+3670,A30,A30,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+3671,A62,A62,normal,39.409608,-123.355566,Willits,California,0,0,1
+3677,A27,A27,normal,36.977173,-121.899402,Aptos,California,0,0,1
+3679,A31,A31,normal,39.409608,-123.355566,Willits,California,0,0,1
+3683,A91,A91,normal,37.957702,-121.29078,Stockton,California,0,0,1
+3686,A100,A100,normal,38.40765,-122.947713,Occidental,California,0,0,1
+3694,A69,A69,normal,35.373292,-119.018712,Bakersfield,California,0,0,1
+3695,A80,A80,normal,33.663357,-116.310009,La Quinta,California,0,0,1
+3697,A31,A31,normal,39.230151,-121.136075,Rough and Ready,California,0,0,1
+3698,A22,A22,normal,37.77493,-122.419416,San Francisco,California,0,0,1
+3702,A67,A67,normal,37.957702,-121.29078,Stockton,California,0,0,1
+3704,A71,A71,normal,33.683947,-117.794694,Irvine,California,0,0,1
+3724,A79,A79,normal,34.106676,-117.806726,San Dimas,California,0,0,1
+3727,A77,A77,normal,37.484938,-119.966284,Mariposa,California,0,0,1
+3731,A95,A95,normal,37.957702,-121.29078,Stockton,California,0,0,1
+3736,A14,A14,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+3740,A58,A58,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+3745,A14,A14,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+3748,A74,A74,normal,39.017396,-122.057748,Arbuckle,California,0,0,1
+3756,A68,A68,normal,39.150171,-123.207783,Ukiah,California,0,0,1
+3763,A32,A32,normal,37.957702,-121.29078,Stockton,California,0,0,1
+3777,A69,A69,normal,36.977173,-121.899402,Aptos,California,0,0,1
+3780,A70,A70,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+3782,A48,A48,normal,33.683947,-117.794694,Irvine,California,0,0,1
+3786,A93,A93,normal,35.098865,-120.612393,Oceano,California,0,0,1
+3799,A99,A99,normal,40.563763,-122.238892,Palo Cedro,California,0,0,1
+3800,A76,A76,normal,34.44805,-119.242889,Ojai,California,0,0,1
+3806,A87,A87,normal,37.441883,-122.143019,Palo Alto,California,0,0,1
+3814,A33,A33,normal,37.957702,-121.29078,Stockton,California,0,0,1
+3818,A44,A44,normal,39.409608,-123.355566,Willits,California,0,0,1
+3822,A46,A46,normal,39.230151,-121.136075,Rough and Ready,California,0,0,1
+3830,A84,A84,normal,36.471865,-6.196595,San Fernando,California,0,0,1
+3831,A78,A78,normal,38.130197,-121.272447,Lodi,California,0,0,1
+3834,A7,A7,normal,39.409608,-123.355566,Willits,California,0,0,1
+3836,A3,A3,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+3837,A54,A54,normal,39.230151,-121.136075,Rough and Ready,California,0,0,1
+3843,A20,A20,normal,34.106676,-117.806726,San Dimas,California,0,0,1
+3852,A40,A40,normal,33.683947,-117.794694,Irvine,California,0,0,1
+3853,A88,A88,normal,40.563763,-122.238892,Palo Cedro,California,0,0,1
+3857,A47,A47,normal,36.852455,-121.401602,Hollister,California,0,0,1
+3859,A72,A72,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+3861,A62,A62,normal,39.409608,-123.355566,Willits,California,0,0,1
+3864,A99,A99,normal,38.161861,-121.611621,Isleton,California,0,0,1
+3865,A79,A79,normal,38.36408,-122.524149,Glen Ellen,California,0,0,1
+3868,A57,A57,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+3869,A82,A82,normal,34.579434,-118.116461,Palmdale,California,0,0,1
+3874,A88,A88,normal,39.409608,-123.355566,Willits,California,0,0,1
+3876,A72,A72,normal,34.44805,-119.242889,Ojai,California,0,0,1
+3881,A95,A95,normal,37.77493,-122.419416,San Francisco,California,0,0,1
+3882,A30,A30,normal,40.563763,-122.238892,Palo Cedro,California,0,0,1
+3883,A25,A25,normal,34.106676,-117.806726,San Dimas,California,0,0,1
+3885,A80,A80,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+3886,A95,A95,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+3889,A87,A87,normal,34.106676,-117.806726,San Dimas,California,0,0,1
+3890,A42,A42,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+3892,A26,A26,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+3900,A2,A2,normal,33.683947,-117.794694,Irvine,California,0,0,1
+3908,A43,A43,normal,39.017396,-122.057748,Arbuckle,California,0,0,1
+3909,A67,A67,normal,39.409608,-123.355566,Willits,California,0,0,1
+3912,A92,A92,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+3925,A97,A97,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+3926,A63,A63,normal,37.957702,-121.29078,Stockton,California,0,0,1
+3927,A26,A26,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+3929,A81,A81,normal,37.962146,-122.345526,San Pablo,California,0,0,1
+3936,A83,A83,normal,34.020011,-117.949508,La Puente,California,0,0,1
+3940,A60,A60,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+3942,A77,A77,normal,35.373292,-119.018712,Bakersfield,California,0,0,1
+3944,A63,A63,normal,34.019454,-118.491191,Santa Monica,California,0,0,1
+3945,A17,A17,normal,37.957702,-121.29078,Stockton,California,0,0,1
+3948,A15,A15,normal,32.715329,-117.157255,San Diego,California,0,0,1
+3950,A14,A14,normal,34.020011,-117.949508,La Puente,California,0,0,1
+3956,A72,A72,normal,39.150171,-123.207783,Ukiah,California,0,0,1
+3957,A31,A31,normal,37.962146,-122.345526,San Pablo,California,0,0,1
+3960,A95,A95,lane departure,38.440467,-122.714431,Santa Rosa,California,0,1,1
+3968,A36,A36,normal,38.297538,-122.286865,Napa,California,0,0,1
+3979,A98,A98,normal,38.36408,-122.524149,Glen Ellen,California,0,0,1
+3991,A8,A8,normal,37.962146,-122.345526,San Pablo,California,0,0,1
+3993,A15,A15,normal,40.563763,-122.238892,Palo Cedro,California,0,0,1
+3998,A48,A48,normal,38.805462,-123.017223,Cloverdale,California,0,0,1
+4003,A34,A34,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+4005,A38,A38,normal,38.799703,-121.720574,Knights Landing,California,0,0,1
+4012,A88,A88,normal,35.373292,-119.018712,Bakersfield,California,0,0,1
+4025,A39,A39,normal,39.017396,-122.057748,Arbuckle,California,0,0,1
+4027,A27,A27,normal,36.746842,-119.772587,Fresno,California,0,0,1
+4031,A29,A29,lane departure,32.61768,-116.187424,Jacumba,California,0,1,1
+4033,A66,A66,normal,39.017396,-122.057748,Arbuckle,California,0,0,1
+4034,A68,A68,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+4036,A72,A72,normal,37.77493,-122.419416,San Francisco,California,0,0,1
+4042,A8,A8,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+4050,A73,A73,normal,39.145725,-121.591355,Marysville,California,0,0,1
+4051,A5,A5,normal,38.693723,-119.779683,Markleeville,California,0,0,1
+4055,A24,A24,normal,39.017396,-122.057748,Arbuckle,California,0,0,1
+4064,A46,A46,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+4065,A94,A94,normal,32.811161,-115.380264,Holtville,California,0,0,1
+4066,A47,A47,normal,35.098865,-120.612393,Oceano,California,0,0,1
+4067,A52,A52,normal,33.19587,-117.379483,Oceanside,California,0,0,1
+4071,A100,A100,normal,38.40765,-122.947713,Occidental,California,0,0,1
+4078,A26,A26,normal,39.150171,-123.207783,Ukiah,California,0,0,1
+4095,A45,A45,normal,39.150171,-123.207783,Ukiah,California,0,0,1
+4099,A35,A35,normal,39.017396,-122.057748,Arbuckle,California,0,0,1
+4101,A58,A58,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+4102,A60,A60,normal,33.846404,-118.046731,La Palma,California,0,0,1
+4112,A56,A56,normal,38.805462,-123.017223,Cloverdale,California,0,0,1
+4121,A59,A59,normal,38.297538,-122.286865,Napa,California,0,0,1
+4122,A74,A74,normal,36.852455,-121.401602,Hollister,California,0,0,1
+4123,A6,A6,normal,34.354166,-119.059271,Santa Paula,California,0,0,1
+4125,A40,A40,normal,32.811161,-115.380264,Holtville,California,0,0,1
+4130,A75,A75,normal,32.61768,-116.187424,Jacumba,California,0,0,1
+4144,A59,A59,normal,38.297538,-122.286865,Napa,California,0,0,1
+4145,A81,A81,normal,37.962146,-122.345526,San Pablo,California,0,0,1
+4146,A4,A4,normal,39.409608,-123.355566,Willits,California,0,0,1
+4148,A43,A43,normal,39.017396,-122.057748,Arbuckle,California,0,0,1
+4153,A76,A76,normal,33.846404,-118.046731,La Palma,California,0,0,1
+4154,A1,A1,normal,38.716687,-121.364422,Antelope,California,0,0,1
+4159,A89,A89,normal,38.716687,-121.364422,Antelope,California,0,0,1
+4160,A3,A3,normal,34.44805,-119.242889,Ojai,California,0,0,1
+4161,A35,A35,normal,38.716687,-121.364422,Antelope,California,0,0,1
+4173,A37,A37,normal,37.441883,-122.143019,Palo Alto,California,0,0,1
+4175,A62,A62,normal,37.968812,-121.668008,Knightsen,California,0,0,1
+4181,A15,A15,unsafe following distance,35.373292,-119.018712,Bakersfield,California,0,1,1
+4196,A74,A74,normal,32.715329,-117.157255,San Diego,California,0,0,1
+4200,A97,A97,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+4203,A93,A93,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+4204,A55,A55,normal,34.019454,-118.491191,Santa Monica,California,0,0,1
+4208,A5,A5,normal,38.297538,-122.286865,Napa,California,0,0,1
+4226,A66,A66,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+4229,A64,A64,normal,34.354166,-119.059271,Santa Paula,California,0,0,1
+4234,A2,A2,normal,32.61768,-116.187424,Jacumba,California,0,0,1
+4245,A37,A37,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+4252,A39,A39,normal,37.968812,-121.668008,Knightsen,California,0,0,1
+4256,A33,A33,normal,37.957702,-121.29078,Stockton,California,0,0,1
+4260,A76,A76,unsafe following distance,40.58654,-122.391675,Redding,California,0,1,1
+4261,A26,A26,normal,39.150171,-123.207783,Ukiah,California,0,0,1
+4273,A98,A98,normal,39.409608,-123.355566,Willits,California,0,0,1
+4279,A96,A96,normal,35.373292,-119.018712,Bakersfield,California,0,0,1
+4285,A60,A60,normal,40.761243,-123.994778,Kneeland,California,0,0,1
+4289,A68,A68,normal,33.846404,-118.046731,La Palma,California,0,0,1
+4293,A87,A87,normal,37.957702,-121.29078,Stockton,California,0,0,1
+4301,A61,A61,normal,35.373292,-119.018712,Bakersfield,California,0,0,1
+4305,A41,A41,normal,39.409608,-123.355566,Willits,California,0,0,1
+4324,A17,A17,normal,36.471865,-6.196595,San Fernando,California,0,0,1
+4326,A4,A4,normal,37.962146,-122.345526,San Pablo,California,0,0,1
+4328,A68,A68,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+4330,A34,A34,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+4332,A19,A19,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+4345,A43,A43,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+4346,A12,A12,normal,38.716687,-121.364422,Antelope,California,0,0,1
+4348,A78,A78,normal,38.693723,-119.779683,Markleeville,California,0,0,1
+4353,A94,A94,normal,36.471865,-6.196595,San Fernando,California,0,0,1
+4355,A43,A43,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+4356,A67,A67,normal,32.811161,-115.380264,Holtville,California,0,0,1
+4358,A63,A63,normal,32.61768,-116.187424,Jacumba,California,0,0,1
+4363,A59,A59,normal,38.297538,-122.286865,Napa,California,0,0,1
+4370,A97,A97,normal,38.130197,-121.272447,Lodi,California,0,0,1
+4377,A20,A20,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+4378,A51,A51,normal,37.005782,-121.568275,Gilroy,California,0,0,1
+4380,A3,A3,normal,38.019366,-122.134132,Martinez,California,0,0,1
+4385,A49,A49,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+4387,A26,A26,normal,33.743076,-117.109197,Homeland,California,0,0,1
+4392,A40,A40,normal,37.957702,-121.29078,Stockton,California,0,0,1
+4408,A83,A83,normal,34.435829,-119.827639,Goleta,California,0,0,1
+4411,A95,A95,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+4413,A83,A83,normal,37.957702,-121.29078,Stockton,California,0,0,1
+4420,A58,A58,normal,34.953034,-120.435719,Santa Maria,California,0,0,1
+4424,A12,A12,normal,39.409608,-123.355566,Willits,California,0,0,1
+4431,A63,A63,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+4436,A96,A96,normal,37.962146,-122.345526,San Pablo,California,0,0,1
+4439,A98,A98,normal,32.61768,-116.187424,Jacumba,California,0,0,1
+4441,A10,A10,normal,37.941325,-122.484704,San Quentin,California,0,0,1
+4444,A18,A18,normal,37.957702,-121.29078,Stockton,California,0,0,1
+4457,A45,A45,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+4460,A60,A60,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+4462,A54,A54,normal,37.962146,-122.345526,San Pablo,California,0,0,1
+4463,A44,A44,normal,32.61768,-116.187424,Jacumba,California,0,0,1
+4464,A62,A62,normal,38.716687,-121.364422,Antelope,California,0,0,1
+4467,A31,A31,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+4481,A28,A28,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+4482,A28,A28,normal,38.130197,-121.272447,Lodi,California,0,0,1
+4483,A77,A77,normal,35.373292,-119.018712,Bakersfield,California,0,0,1
+4485,A5,A5,normal,38.693723,-119.779683,Markleeville,California,0,0,1
+4487,A58,A58,normal,37.962146,-122.345526,San Pablo,California,0,0,1
+4489,A14,A14,normal,37.957702,-121.29078,Stockton,California,0,0,1
+4494,A71,A71,normal,32.61768,-116.187424,Jacumba,California,0,0,1
+4499,A67,A67,normal,32.61768,-116.187424,Jacumba,California,0,0,1
+4503,A49,A49,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+4504,A68,A68,normal,38.161861,-121.611621,Isleton,California,0,0,1
+4508,A80,A80,normal,38.161861,-121.611621,Isleton,California,0,0,1
+4510,A40,A40,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+4513,A15,A15,normal,39.409608,-123.355566,Willits,California,0,0,1
+4516,A9,A9,normal,34.579434,-118.116461,Palmdale,California,0,0,1
+4519,A63,A63,normal,33.683947,-117.794694,Irvine,California,0,0,1
+4524,A3,A3,normal,37.77493,-122.419416,San Francisco,California,0,0,1
+4526,A23,A23,unsafe following distance,36.977173,-121.899402,Aptos,California,0,1,1
+4528,A71,A71,normal,38.716687,-121.364422,Antelope,California,0,0,1
+4533,A59,A59,unsafe following distance,33.846404,-118.046731,La Palma,California,0,1,1
+4536,A41,A41,normal,38.161861,-121.611621,Isleton,California,0,0,1
+4538,A66,A66,normal,37.962146,-122.345526,San Pablo,California,0,0,1
+4544,A78,A78,normal,38.130197,-121.272447,Lodi,California,0,0,1
+4547,A19,A19,normal,36.977173,-121.899402,Aptos,California,0,0,1
+4549,A71,A71,normal,32.61768,-116.187424,Jacumba,California,0,0,1
+4556,A68,A68,normal,37.77493,-122.419416,San Francisco,California,0,0,1
+4558,A60,A60,normal,37.441883,-122.143019,Palo Alto,California,0,0,1
+4561,A91,A91,normal,37.441883,-122.143019,Palo Alto,California,0,0,1
+4564,A76,A76,normal,36.471865,-6.196595,San Fernando,California,0,0,1
+4571,A50,A50,normal,36.977173,-121.899402,Aptos,California,0,0,1
+4574,A88,A88,normal,36.977173,-121.899402,Aptos,California,0,0,1
+4575,A88,A88,normal,33.663357,-116.310009,La Quinta,California,0,0,1
+4590,A69,A69,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+4592,A9,A9,normal,38.130197,-121.272447,Lodi,California,0,0,1
+4612,A97,A97,normal,34.106676,-117.806726,San Dimas,California,0,0,1
+4613,A42,A42,normal,38.40765,-122.947713,Occidental,California,0,0,1
+4619,A40,A40,normal,38.716687,-121.364422,Antelope,California,0,0,1
+4621,A100,A100,unsafe following distance,35.373292,-119.018712,Bakersfield,California,0,1,1
+4622,A3,A3,normal,34.44805,-119.242889,Ojai,California,0,0,1
+4623,A28,A28,normal,32.715329,-117.157255,San Diego,California,0,0,1
+4624,A15,A15,normal,36.977173,-121.899402,Aptos,California,0,0,1
+4625,A24,A24,normal,35.098865,-120.612393,Oceano,California,0,0,1
+4626,A58,A58,normal,39.409608,-123.355566,Willits,California,0,0,1
+4627,A18,A18,normal,39.409608,-123.355566,Willits,California,0,0,1
+4628,A6,A6,normal,38.36408,-122.524149,Glen Ellen,California,0,0,1
+4629,A13,A13,normal,34.579434,-118.116461,Palmdale,California,0,0,1
+4633,A27,A27,normal,37.484938,-119.966284,Mariposa,California,0,0,1
+4642,A94,A94,normal,36.471865,-6.196595,San Fernando,California,0,0,1
+4646,A33,A33,normal,37.441883,-122.143019,Palo Alto,California,0,0,1
+4649,A82,A82,normal,38.130197,-121.272447,Lodi,California,0,0,1
+4653,A56,A56,normal,38.36408,-122.524149,Glen Ellen,California,0,0,1
+4663,A95,A95,normal,33.846404,-118.046731,La Palma,California,0,0,1
+4670,A69,A69,normal,32.715329,-117.157255,San Diego,California,0,0,1
+4671,A70,A70,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+4672,A53,A53,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+4674,A85,A85,normal,39.409608,-123.355566,Willits,California,0,0,1
+4677,A62,A62,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+4679,A8,A8,normal,37.962146,-122.345526,San Pablo,California,0,0,1
+4682,A5,A5,normal,34.579434,-118.116461,Palmdale,California,0,0,1
+4688,A93,A93,normal,35.098865,-120.612393,Oceano,California,0,0,1
+4689,A50,A50,normal,38.40765,-122.947713,Occidental,California,0,0,1
+4694,A32,A32,normal,38.130197,-121.272447,Lodi,California,0,0,1
+4697,A42,A42,normal,36.977173,-121.899402,Aptos,California,0,0,1
+4706,A13,A13,normal,33.846404,-118.046731,La Palma,California,0,0,1
+4709,A81,A81,normal,34.953034,-120.435719,Santa Maria,California,0,0,1
+4719,A68,A68,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+4721,A61,A61,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+4722,A79,A79,normal,37.957702,-121.29078,Stockton,California,0,0,1
+4723,A19,A19,normal,38.40765,-122.947713,Occidental,California,0,0,1
+4725,A87,A87,normal,38.161861,-121.611621,Isleton,California,0,0,1
+4730,A6,A6,normal,37.441883,-122.143019,Palo Alto,California,0,0,1
+4732,A9,A9,normal,39.409608,-123.355566,Willits,California,0,0,1
+4733,A14,A14,normal,39.409608,-123.355566,Willits,California,0,0,1
+4735,A97,A97,normal,36.977173,-121.899402,Aptos,California,0,0,1
+4736,A74,A74,normal,38.693723,-119.779683,Markleeville,California,0,0,1
+4738,A78,A78,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+4742,A8,A8,normal,39.145725,-121.591355,Marysville,California,0,0,1
+4743,A8,A8,normal,39.409608,-123.355566,Willits,California,0,0,1
+4761,A70,A70,normal,34.106676,-117.806726,San Dimas,California,0,0,1
+4769,A90,A90,normal,33.683947,-117.794694,Irvine,California,0,0,1
+4771,A93,A93,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+4775,A76,A76,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+4776,A18,A18,normal,40.761243,-123.994778,Kneeland,California,0,0,1
+4780,A51,A51,normal,39.017396,-122.057748,Arbuckle,California,0,0,1
+4781,A39,A39,normal,39.017396,-122.057748,Arbuckle,California,0,0,1
+4783,A100,A100,normal,39.145725,-121.591355,Marysville,California,0,0,1
+4792,A96,A96,normal,36.977173,-121.899402,Aptos,California,0,0,1
+4794,A58,A58,normal,34.136119,-117.865339,Glendora,California,0,0,1
+4798,A19,A19,normal,38.799703,-121.720574,Knights Landing,California,0,0,1
+4808,A21,A21,normal,37.957702,-121.29078,Stockton,California,0,0,1
+4810,A41,A41,normal,37.957702,-121.29078,Stockton,California,0,0,1
+4815,A30,A30,normal,34.44805,-119.242889,Ojai,California,0,0,1
+4818,A66,A66,normal,37.968812,-121.668008,Knightsen,California,0,0,1
+4825,A50,A50,normal,34.953034,-120.435719,Santa Maria,California,0,0,1
+4827,A77,A77,normal,39.230151,-121.136075,Rough and Ready,California,0,0,1
+4829,A79,A79,normal,37.957702,-121.29078,Stockton,California,0,0,1
+4838,A91,A91,normal,38.161861,-121.611621,Isleton,California,0,0,1
+4846,A9,A9,normal,33.846404,-118.046731,La Palma,California,0,0,1
+4850,A31,A31,normal,37.77493,-122.419416,San Francisco,California,0,0,1
+4854,A51,A51,normal,38.693723,-119.779683,Markleeville,California,0,0,1
+4857,A10,A10,normal,37.441883,-122.143019,Palo Alto,California,0,0,1
+4859,A84,A84,normal,38.019366,-122.134132,Martinez,California,0,0,1
+4865,A55,A55,normal,38.716687,-121.364422,Antelope,California,0,0,1
+4871,A63,A63,normal,37.957702,-121.29078,Stockton,California,0,0,1
+4873,A65,A65,normal,40.563763,-122.238892,Palo Cedro,California,0,0,1
+4876,A29,A29,normal,38.752124,-121.288006,Roseville,California,0,0,1
+4879,A42,A42,normal,38.40765,-122.947713,Occidental,California,0,0,1
+4883,A31,A31,normal,35.373292,-119.018712,Bakersfield,California,0,0,1
+4888,A7,A7,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+4916,A3,A3,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+4918,A35,A35,normal,39.409608,-123.355566,Willits,California,0,0,1
+4919,A73,A73,normal,36.977173,-121.899402,Aptos,California,0,0,1
+4923,A58,A58,normal,38.716687,-121.364422,Antelope,California,0,0,1
+4927,A68,A68,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+4929,A20,A20,normal,36.852455,-121.401602,Hollister,California,0,0,1
+4935,A48,A48,normal,36.471865,-6.196595,San Fernando,California,0,0,1
+4942,A95,A95,normal,38.161861,-121.611621,Isleton,California,0,0,1
+4953,A50,A50,lane departure,35.373292,-119.018712,Bakersfield,California,0,1,1
+4954,A89,A89,normal,37.962146,-122.345526,San Pablo,California,0,0,1
+4957,A89,A89,normal,34.953034,-120.435719,Santa Maria,California,0,0,1
+4959,A32,A32,normal,32.715329,-117.157255,San Diego,California,0,0,1
+4960,A3,A3,normal,36.471865,-6.196595,San Fernando,California,0,0,1
+4962,A12,A12,normal,37.639097,-120.996878,Modesto,California,0,0,1
+4967,A82,A82,normal,38.130197,-121.272447,Lodi,California,0,0,1
+4974,A79,A79,normal,33.19587,-117.379483,Oceanside,California,0,0,1
+4979,A84,A84,normal,40.563763,-122.238892,Palo Cedro,California,0,0,1
+4988,A61,A61,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+4989,A32,A32,normal,38.716687,-121.364422,Antelope,California,0,0,1
+4992,A33,A33,normal,37.441883,-122.143019,Palo Alto,California,0,0,1
+4994,A6,A6,normal,34.020011,-117.949508,La Puente,California,0,0,1
+5003,A69,A69,normal,36.977173,-121.899402,Aptos,California,0,0,1
+5011,A62,A62,normal,38.716687,-121.364422,Antelope,California,0,0,1
+5016,A93,A93,normal,35.098865,-120.612393,Oceano,California,0,0,1
+5017,A18,A18,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+5033,A51,A51,normal,38.130197,-121.272447,Lodi,California,0,0,1
+5035,A53,A53,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+5037,A77,A77,normal,32.715329,-117.157255,San Diego,California,0,0,1
+5038,A9,A9,normal,34.019454,-118.491191,Santa Monica,California,0,0,1
+5042,A93,A93,normal,39.017396,-122.057748,Arbuckle,California,0,0,1
+5051,A28,A28,normal,32.715329,-117.157255,San Diego,California,0,0,1
+5055,A99,A99,normal,33.846404,-118.046731,La Palma,California,0,0,1
+5059,A46,A46,normal,39.409608,-123.355566,Willits,California,0,0,1
+5070,A94,A94,normal,32.811161,-115.380264,Holtville,California,0,0,1
+5079,A38,A38,normal,36.977173,-121.899402,Aptos,California,0,0,1
+5085,A14,A14,normal,39.409608,-123.355566,Willits,California,0,0,1
+5089,A46,A46,normal,38.40765,-122.947713,Occidental,California,0,0,1
+5091,A89,A89,normal,39.409608,-123.355566,Willits,California,0,0,1
+5099,A33,A33,normal,34.020011,-117.949508,La Puente,California,0,0,1
+5100,A13,A13,normal,34.579434,-118.116461,Palmdale,California,0,0,1
+5108,A67,A67,normal,37.957702,-121.29078,Stockton,California,0,0,1
+5111,A34,A34,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+5115,A74,A74,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+5118,A94,A94,normal,39.409608,-123.355566,Willits,California,0,0,1
+5125,A64,A64,normal,38.161861,-121.611621,Isleton,California,0,0,1
+5126,A45,A45,normal,33.743076,-117.109197,Homeland,California,0,0,1
+5141,A35,A35,normal,37.968812,-121.668008,Knightsen,California,0,0,1
+5144,A67,A67,normal,33.683947,-117.794694,Irvine,California,0,0,1
+5147,A67,A67,normal,34.019454,-118.491191,Santa Monica,California,0,0,1
+5151,A45,A45,normal,39.150171,-123.207783,Ukiah,California,0,0,1
+5153,A99,A99,normal,37.77493,-122.419416,San Francisco,California,0,0,1
+5154,A71,A71,normal,38.805462,-123.017223,Cloverdale,California,0,0,1
+5155,A81,A81,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+5157,A41,A41,normal,34.020011,-117.949508,La Puente,California,0,0,1
+5164,A49,A49,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+5168,A23,A23,normal,36.746842,-119.772587,Fresno,California,0,0,1
+5174,A4,A4,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+5178,A94,A94,normal,38.130197,-121.272447,Lodi,California,0,0,1
+5184,A2,A2,normal,33.683947,-117.794694,Irvine,California,0,0,1
+5185,A95,A95,normal,37.941325,-122.484704,San Quentin,California,0,0,1
+5186,A30,A30,lane departure,39.409608,-123.355566,Willits,California,0,1,1
+5188,A86,A86,normal,37.957702,-121.29078,Stockton,California,0,0,1
+5194,A5,A5,normal,38.130197,-121.272447,Lodi,California,0,0,1
+5196,A36,A36,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+5199,A15,A15,normal,38.799703,-121.720574,Knights Landing,California,0,0,1
+5200,A46,A46,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+5206,A29,A29,normal,34.020011,-117.949508,La Puente,California,0,0,1
+5210,A88,A88,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+5211,A79,A79,normal,38.36408,-122.524149,Glen Ellen,California,0,0,1
+5212,A70,A70,normal,38.693723,-119.779683,Markleeville,California,0,0,1
+5216,A41,A41,unsafe following distance,33.743076,-117.109197,Homeland,California,0,1,1
+5233,A64,A64,normal,34.020011,-117.949508,La Puente,California,0,0,1
+5235,A24,A24,normal,39.017396,-122.057748,Arbuckle,California,0,0,1
+5236,A86,A86,normal,32.715329,-117.157255,San Diego,California,0,0,1
+5237,A42,A42,normal,38.799703,-121.720574,Knights Landing,California,0,0,1
+5239,A74,A74,normal,36.977173,-121.899402,Aptos,California,0,0,1
+5241,A57,A57,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+5243,A80,A80,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+5251,A78,A78,unsafe following distance,38.297538,-122.286865,Napa,California,0,1,1
+5255,A10,A10,normal,34.020011,-117.949508,La Puente,California,0,0,1
+5256,A52,A52,normal,32.61768,-116.187424,Jacumba,California,0,0,1
+5262,A12,A12,normal,37.968812,-121.668008,Knightsen,California,0,0,1
+5266,A81,A81,normal,37.77493,-122.419416,San Francisco,California,0,0,1
+5268,A1,A1,normal,34.106676,-117.806726,San Dimas,California,0,0,1
+5276,A80,A80,normal,36.471865,-6.196595,San Fernando,California,0,0,1
+5281,A49,A49,normal,38.161861,-121.611621,Isleton,California,0,0,1
+5286,A48,A48,normal,37.957702,-121.29078,Stockton,California,0,0,1
+5288,A35,A35,normal,38.716687,-121.364422,Antelope,California,0,0,1
+5289,A65,A65,normal,40.563763,-122.238892,Palo Cedro,California,0,0,1
+5290,A3,A3,normal,39.409608,-123.355566,Willits,California,0,0,1
+5293,A49,A49,normal,33.743076,-117.109197,Homeland,California,0,0,1
+5300,A20,A20,normal,38.716687,-121.364422,Antelope,California,0,0,1
+5302,A72,A72,normal,33.743076,-117.109197,Homeland,California,0,0,1
+5303,A73,A73,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+5307,A71,A71,normal,37.957702,-121.29078,Stockton,California,0,0,1
+5310,A15,A15,normal,35.373292,-119.018712,Bakersfield,California,0,0,1
+5314,A98,A98,normal,36.471865,-6.196595,San Fernando,California,0,0,1
+5315,A62,A62,normal,37.77493,-122.419416,San Francisco,California,0,0,1
+5318,A40,A40,normal,38.130197,-121.272447,Lodi,California,0,0,1
+5322,A65,A65,normal,32.715329,-117.157255,San Diego,California,0,0,1
+5324,A81,A81,normal,39.409608,-123.355566,Willits,California,0,0,1
+5336,A75,A75,normal,32.811161,-115.380264,Holtville,California,0,0,1
+5338,A25,A25,unsafe following distance,38.805462,-123.017223,Cloverdale,California,0,1,1
+5341,A46,A46,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+5342,A93,A93,normal,37.639097,-120.996878,Modesto,California,0,0,1
+5344,A99,A99,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+5345,A77,A77,normal,34.136119,-117.865339,Glendora,California,0,0,1
+5353,A94,A94,normal,37.957702,-121.29078,Stockton,California,0,0,1
+5356,A89,A89,normal,36.977173,-121.899402,Aptos,California,0,0,1
+5365,A66,A66,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+5366,A43,A43,normal,38.716687,-121.364422,Antelope,California,0,0,1
+5369,A73,A73,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+5373,A21,A21,normal,32.811161,-115.380264,Holtville,California,0,0,1
+5374,A42,A42,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+5376,A79,A79,normal,34.106676,-117.806726,San Dimas,California,0,0,1
+5380,A45,A45,normal,33.846404,-118.046731,La Palma,California,0,0,1
+5381,A47,A47,normal,38.297538,-122.286865,Napa,California,0,0,1
+5406,A26,A26,normal,34.44805,-119.242889,Ojai,California,0,0,1
+5407,A16,A16,normal,36.977173,-121.899402,Aptos,California,0,0,1
+5408,A3,A3,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+5409,A50,A50,normal,37.962146,-122.345526,San Pablo,California,0,0,1
+5415,A30,A30,normal,40.563763,-122.238892,Palo Cedro,California,0,0,1
+5421,A93,A93,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+5427,A94,A94,normal,33.683947,-117.794694,Irvine,California,0,0,1
+5434,A45,A45,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+5453,A34,A34,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+5459,A57,A57,normal,36.471865,-6.196595,San Fernando,California,0,0,1
+5461,A83,A83,normal,37.441883,-122.143019,Palo Alto,California,0,0,1
+5463,A30,A30,normal,39.409608,-123.355566,Willits,California,0,0,1
+5465,A30,A30,normal,40.58654,-122.391675,Redding,California,0,0,1
+5466,A78,A78,normal,34.579434,-118.116461,Palmdale,California,0,0,1
+5473,A50,A50,unsafe following distance,36.746842,-119.772587,Fresno,California,0,1,1
+5476,A84,A84,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+5493,A63,A63,normal,34.019454,-118.491191,Santa Monica,California,0,0,1
+5494,A35,A35,normal,39.409608,-123.355566,Willits,California,0,0,1
+5497,A64,A64,normal,34.354166,-119.059271,Santa Paula,California,0,0,1
+5501,A47,A47,normal,39.017396,-122.057748,Arbuckle,California,0,0,1
+5503,A69,A69,normal,35.373292,-119.018712,Bakersfield,California,0,0,1
+5507,A90,A90,normal,36.471865,-6.196595,San Fernando,California,0,0,1
+5508,A20,A20,normal,38.716687,-121.364422,Antelope,California,0,0,1
+5519,A84,A84,normal,36.471865,-6.196595,San Fernando,California,0,0,1
+5523,A68,A68,normal,39.409608,-123.355566,Willits,California,0,0,1
+5530,A11,A11,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+5533,A7,A7,normal,40.563763,-122.238892,Palo Cedro,California,0,0,1
+5539,A69,A69,normal,37.484938,-119.966284,Mariposa,California,0,0,1
+5541,A69,A69,normal,36.746842,-119.772587,Fresno,California,0,0,1
+5545,A85,A85,normal,37.77493,-122.419416,San Francisco,California,0,0,1
+5548,A13,A13,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+5554,A92,A92,normal,36.977173,-121.899402,Aptos,California,0,0,1
+5564,A75,A75,normal,38.36408,-122.524149,Glen Ellen,California,0,0,1
+5572,A26,A26,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+5579,A20,A20,normal,35.098865,-120.612393,Oceano,California,0,0,1
+5583,A51,A51,normal,36.852455,-121.401602,Hollister,California,0,0,1
+5588,A2,A2,normal,38.805462,-123.017223,Cloverdale,California,0,0,1
+5592,A32,A32,normal,38.716687,-121.364422,Antelope,California,0,0,1
+5599,A44,A44,normal,37.957702,-121.29078,Stockton,California,0,0,1
+5620,A63,A63,normal,34.579434,-118.116461,Palmdale,California,0,0,1
+5627,A86,A86,normal,41.526509,-124.038407,Klamath,California,0,0,1
+5636,A22,A22,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+5644,A23,A23,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+5649,A45,A45,normal,38.161861,-121.611621,Isleton,California,0,0,1
+5651,A87,A87,normal,37.957702,-121.29078,Stockton,California,0,0,1
+5654,A96,A96,normal,36.977173,-121.899402,Aptos,California,0,0,1
+5656,A18,A18,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+5657,A22,A22,normal,37.77493,-122.419416,San Francisco,California,0,0,1
+5659,A64,A64,normal,37.441883,-122.143019,Palo Alto,California,0,0,1
+5663,A18,A18,normal,33.846404,-118.046731,La Palma,California,0,0,1
+5670,A97,A97,normal,36.852455,-121.401602,Hollister,California,0,0,1
+5671,A97,A97,normal,35.098865,-120.612393,Oceano,California,0,0,1
+5680,A11,A11,normal,39.409608,-123.355566,Willits,California,0,0,1
+5681,A75,A75,normal,38.752124,-121.288006,Roseville,California,0,0,1
+5682,A11,A11,normal,39.409608,-123.355566,Willits,California,0,0,1
+5684,A98,A98,normal,32.811161,-115.380264,Holtville,California,0,0,1
+5699,A60,A60,normal,34.106676,-117.806726,San Dimas,California,0,0,1
+5701,A89,A89,normal,36.852455,-121.401602,Hollister,California,0,0,1
+5703,A10,A10,normal,34.020011,-117.949508,La Puente,California,0,0,1
+5707,A35,A35,unsafe following distance,38.716687,-121.364422,Antelope,California,0,1,1
+5709,A57,A57,normal,36.471865,-6.196595,San Fernando,California,0,0,1
+5711,A51,A51,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+5713,A21,A21,normal,39.409608,-123.355566,Willits,California,0,0,1
+5714,A83,A83,normal,38.805462,-123.017223,Cloverdale,California,0,0,1
+5715,A18,A18,normal,33.846404,-118.046731,La Palma,California,0,0,1
+5733,A10,A10,normal,34.354166,-119.059271,Santa Paula,California,0,0,1
+5749,A65,A65,normal,36.977173,-121.899402,Aptos,California,0,0,1
+5751,A60,A60,normal,38.161861,-121.611621,Isleton,California,0,0,1
+5752,A28,A28,normal,37.639097,-120.996878,Modesto,California,0,0,1
+5755,A24,A24,normal,39.017396,-122.057748,Arbuckle,California,0,0,1
+5758,A81,A81,normal,35.373292,-119.018712,Bakersfield,California,0,0,1
+5761,A83,A83,normal,34.106676,-117.806726,San Dimas,California,0,0,1
+5762,A95,A95,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+5769,A80,A80,normal,34.44805,-119.242889,Ojai,California,0,0,1
+5774,A65,A65,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+5777,A69,A69,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+5788,A47,A47,normal,37.639097,-120.996878,Modesto,California,0,0,1
+5801,A87,A87,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+5802,A78,A78,normal,34.579434,-118.116461,Palmdale,California,0,0,1
+5808,A1,A1,normal,32.715329,-117.157255,San Diego,California,0,0,1
+5809,A12,A12,normal,37.968812,-121.668008,Knightsen,California,0,0,1
+5813,A56,A56,normal,38.36408,-122.524149,Glen Ellen,California,0,0,1
+5817,A8,A8,normal,37.962146,-122.345526,San Pablo,California,0,0,1
+5818,A30,A30,normal,38.019366,-122.134132,Martinez,California,0,0,1
+5831,A67,A67,normal,32.811161,-115.380264,Holtville,California,0,0,1
+5844,A4,A4,normal,39.409608,-123.355566,Willits,California,0,0,1
+5852,A24,A24,normal,35.098865,-120.612393,Oceano,California,0,0,1
+5857,A68,A68,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+5860,A31,A31,normal,35.373292,-119.018712,Bakersfield,California,0,0,1
+5863,A16,A16,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+5872,A45,A45,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+5878,A21,A21,normal,33.683947,-117.794694,Irvine,California,0,0,1
+5881,A31,A31,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+5891,A85,A85,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+5893,A65,A65,normal,36.746842,-119.772587,Fresno,California,0,0,1
+5894,A37,A37,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+5895,A48,A48,normal,32.61768,-116.187424,Jacumba,California,0,0,1
+5896,A40,A40,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+5899,A30,A30,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+5903,A1,A1,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+5907,A78,A78,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+5908,A28,A28,normal,32.715329,-117.157255,San Diego,California,0,0,1
+5918,A83,A83,normal,40.761243,-123.994778,Kneeland,California,0,0,1
+5919,A88,A88,normal,33.663357,-116.310009,La Quinta,California,0,0,1
+5921,A60,A60,normal,32.61768,-116.187424,Jacumba,California,0,0,1
+5927,A27,A27,normal,37.962146,-122.345526,San Pablo,California,0,0,1
+5928,A35,A35,normal,39.409608,-123.355566,Willits,California,0,0,1
+5930,A42,A42,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+5938,A97,A97,normal,39.017396,-122.057748,Arbuckle,California,0,0,1
+5939,A7,A7,normal,36.471865,-6.196595,San Fernando,California,0,0,1
+5953,A70,A70,normal,36.977173,-121.899402,Aptos,California,0,0,1
+5955,A95,A95,normal,37.957702,-121.29078,Stockton,California,0,0,1
+5956,A21,A21,normal,33.19587,-117.379483,Oceanside,California,0,0,1
+5958,A72,A72,normal,37.77493,-122.419416,San Francisco,California,0,0,1
+5960,A85,A85,normal,39.145725,-121.591355,Marysville,California,0,0,1
+5962,A74,A74,normal,37.639097,-120.996878,Modesto,California,0,0,1
+5963,A29,A29,normal,33.683947,-117.794694,Irvine,California,0,0,1
+5964,A82,A82,normal,38.716687,-121.364422,Antelope,California,0,0,1
+5970,A51,A51,normal,39.017396,-122.057748,Arbuckle,California,0,0,1
+5974,A92,A92,normal,32.715329,-117.157255,San Diego,California,0,0,1
+5979,A8,A8,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+5980,A25,A25,normal,34.106676,-117.806726,San Dimas,California,0,0,1
+5986,A28,A28,normal,37.005782,-121.568275,Gilroy,California,0,0,1
+5987,A43,A43,normal,36.977173,-121.899402,Aptos,California,0,0,1
+5991,A13,A13,normal,38.716687,-121.364422,Antelope,California,0,0,1
+5993,A32,A32,normal,38.130197,-121.272447,Lodi,California,0,0,1
+5994,A98,A98,normal,32.811161,-115.380264,Holtville,California,0,0,1
+5995,A35,A35,normal,34.953034,-120.435719,Santa Maria,California,0,0,1
+5997,A48,A48,normal,38.36408,-122.524149,Glen Ellen,California,0,0,1
+5999,A57,A57,normal,33.663357,-116.310009,La Quinta,California,0,0,1
+6011,A87,A87,normal,40.761243,-123.994778,Kneeland,California,0,0,1
+6012,A52,A52,normal,37.941325,-122.484704,San Quentin,California,0,0,1
+6020,A69,A69,normal,36.746842,-119.772587,Fresno,California,0,0,1
+6021,A77,A77,normal,37.484938,-119.966284,Mariposa,California,0,0,1
+6024,A52,A52,normal,34.354166,-119.059271,Santa Paula,California,0,0,1
+6027,A43,A43,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+6032,A66,A66,normal,34.953034,-120.435719,Santa Maria,California,0,0,1
+6033,A64,A64,normal,33.846404,-118.046731,La Palma,California,0,0,1
+6037,A2,A2,normal,37.941325,-122.484704,San Quentin,California,0,0,1
+6038,A66,A66,unsafe tail distance,39.017396,-122.057748,Arbuckle,California,0,1,1
+6039,A56,A56,normal,34.106676,-117.806726,San Dimas,California,0,0,1
+6040,A30,A30,unsafe following distance,36.471865,-6.196595,San Fernando,California,0,1,1
+6044,A12,A12,normal,39.409608,-123.355566,Willits,California,0,0,1
+6049,A19,A19,normal,38.40765,-122.947713,Occidental,California,0,0,1
+6055,A92,A92,unsafe following distance,38.440467,-122.714431,Santa Rosa,California,0,1,1
+6070,A25,A25,normal,33.19587,-117.379483,Oceanside,California,0,0,1
+6072,A12,A12,normal,38.716687,-121.364422,Antelope,California,0,0,1
+6074,A93,A93,normal,37.968812,-121.668008,Knightsen,California,0,0,1
+6076,A63,A63,normal,34.019454,-118.491191,Santa Monica,California,0,0,1
+6081,A17,A17,normal,38.130197,-121.272447,Lodi,California,0,0,1
+6082,A9,A9,normal,38.130197,-121.272447,Lodi,California,0,0,1
+6088,A31,A31,lane departure,39.017396,-122.057748,Arbuckle,California,0,1,1
+6099,A65,A65,normal,39.409608,-123.355566,Willits,California,0,0,1
+6103,A56,A56,normal,37.957702,-121.29078,Stockton,California,0,0,1
+6105,A87,A87,normal,37.441883,-122.143019,Palo Alto,California,0,0,1
+6106,A33,A33,normal,34.020011,-117.949508,La Puente,California,0,0,1
+6115,A6,A6,normal,39.409608,-123.355566,Willits,California,0,0,1
+6116,A61,A61,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+6119,A6,A6,normal,32.61768,-116.187424,Jacumba,California,0,0,1
+6124,A13,A13,normal,41.526509,-124.038407,Klamath,California,0,0,1
+6128,A6,A6,normal,37.957702,-121.29078,Stockton,California,0,0,1
+6130,A24,A24,normal,38.716687,-121.364422,Antelope,California,0,0,1
+6132,A71,A71,normal,38.36408,-122.524149,Glen Ellen,California,0,0,1
+6136,A63,A63,normal,33.683947,-117.794694,Irvine,California,0,0,1
+6141,A35,A35,normal,38.716687,-121.364422,Antelope,California,0,0,1
+6143,A15,A15,normal,38.799703,-121.720574,Knights Landing,California,0,0,1
+6145,A21,A21,normal,38.716687,-121.364422,Antelope,California,0,0,1
+6149,A67,A67,normal,39.409608,-123.355566,Willits,California,0,0,1
+6150,A69,A69,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+6152,A59,A59,normal,33.683947,-117.794694,Irvine,California,0,0,1
+6159,A7,A7,normal,40.58654,-122.391675,Redding,California,0,0,1
+6161,A84,A84,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+6168,A32,A32,normal,38.130197,-121.272447,Lodi,California,0,0,1
+6177,A15,A15,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+6180,A35,A35,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+6181,A55,A55,normal,33.846404,-118.046731,La Palma,California,0,0,1
+6187,A41,A41,normal,38.161861,-121.611621,Isleton,California,0,0,1
+6191,A55,A55,normal,33.683947,-117.794694,Irvine,California,0,0,1
+6192,A65,A65,normal,37.484938,-119.966284,Mariposa,California,0,0,1
+6205,A83,A83,normal,34.106676,-117.806726,San Dimas,California,0,0,1
+6208,A49,A49,normal,34.44805,-119.242889,Ojai,California,0,0,1
+6216,A80,A80,normal,36.471865,-6.196595,San Fernando,California,0,0,1
+6219,A44,A44,normal,38.716687,-121.364422,Antelope,California,0,0,1
+6220,A21,A21,normal,36.471865,-6.196595,San Fernando,California,0,0,1
+6221,A34,A34,normal,40.563763,-122.238892,Palo Cedro,California,0,0,1
+6224,A54,A54,normal,34.136119,-117.865339,Glendora,California,0,0,1
+6230,A22,A22,normal,39.409608,-123.355566,Willits,California,0,0,1
+6232,A30,A30,normal,36.471865,-6.196595,San Fernando,California,0,0,1
+6238,A37,A37,normal,40.761243,-123.994778,Kneeland,California,0,0,1
+6241,A12,A12,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+6244,A14,A14,normal,37.441883,-122.143019,Palo Alto,California,0,0,1
+6246,A6,A6,normal,37.441883,-122.143019,Palo Alto,California,0,0,1
+6262,A21,A21,normal,32.61768,-116.187424,Jacumba,California,0,0,1
+6267,A65,A65,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+6271,A46,A46,normal,35.373292,-119.018712,Bakersfield,California,0,0,1
+6276,A19,A19,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+6286,A83,A83,normal,37.441883,-122.143019,Palo Alto,California,0,0,1
+6303,A66,A66,normal,37.968812,-121.668008,Knightsen,California,0,0,1
+6304,A96,A96,normal,37.484938,-119.966284,Mariposa,California,0,0,1
+6306,A28,A28,normal,37.639097,-120.996878,Modesto,California,0,0,1
+6315,A64,A64,normal,34.020011,-117.949508,La Puente,California,0,0,1
+6317,A24,A24,normal,38.297538,-122.286865,Napa,California,0,0,1
+6320,A58,A58,normal,39.409608,-123.355566,Willits,California,0,0,1
+6321,A55,A55,normal,37.005782,-121.568275,Gilroy,California,0,0,1
+6323,A5,A5,normal,34.579434,-118.116461,Palmdale,California,0,0,1
+6333,A88,A88,normal,32.715329,-117.157255,San Diego,California,0,0,1
+6341,A20,A20,normal,37.968812,-121.668008,Knightsen,California,0,0,1
+6344,A50,A50,normal,38.40765,-122.947713,Occidental,California,0,0,1
+6346,A95,A95,normal,37.77493,-122.419416,San Francisco,California,0,0,1
+6349,A84,A84,normal,33.663357,-116.310009,La Quinta,California,0,0,1
+6353,A66,A66,normal,36.977173,-121.899402,Aptos,California,0,0,1
+6364,A98,A98,normal,36.471865,-6.196595,San Fernando,California,0,0,1
+6366,A65,A65,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+6370,A22,A22,normal,37.957702,-121.29078,Stockton,California,0,0,1
+6373,A90,A90,normal,34.019454,-118.491191,Santa Monica,California,0,0,1
+6374,A59,A59,normal,32.715329,-117.157255,San Diego,California,0,0,1
+6376,A69,A69,normal,36.977173,-121.899402,Aptos,California,0,0,1
+6377,A87,A87,normal,37.441883,-122.143019,Palo Alto,California,0,0,1
+6378,A70,A70,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+6381,A34,A34,normal,36.471865,-6.196595,San Fernando,California,0,0,1
+6384,A26,A26,normal,38.161861,-121.611621,Isleton,California,0,0,1
+6389,A45,A45,normal,38.161861,-121.611621,Isleton,California,0,0,1
+6395,A30,A30,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+6402,A27,A27,normal,39.145725,-121.591355,Marysville,California,0,0,1
+6407,A89,A89,normal,37.639097,-120.996878,Modesto,California,0,0,1
+6414,A99,A99,normal,38.161861,-121.611621,Isleton,California,0,0,1
+6420,A100,A100,normal,32.715329,-117.157255,San Diego,California,0,0,1
+6425,A100,A100,normal,37.484938,-119.966284,Mariposa,California,0,0,1
+6428,A12,A12,normal,37.639097,-120.996878,Modesto,California,0,0,1
+6430,A37,A37,normal,38.161861,-121.611621,Isleton,California,0,0,1
+6447,A11,A11,unsafe following distance,40.563763,-122.238892,Palo Cedro,California,0,1,1
+6457,A74,A74,normal,37.639097,-120.996878,Modesto,California,0,0,1
+6460,A6,A6,normal,37.941325,-122.484704,San Quentin,California,0,0,1
+6461,A97,A97,normal,37.639097,-120.996878,Modesto,California,0,0,1
+6462,A9,A9,normal,41.526509,-124.038407,Klamath,California,0,0,1
+6473,A30,A30,normal,40.563763,-122.238892,Palo Cedro,California,0,0,1
+6475,A4,A4,normal,37.77493,-122.419416,San Francisco,California,0,0,1
+6477,A2,A2,normal,37.941325,-122.484704,San Quentin,California,0,0,1
+6482,A78,A78,normal,32.715329,-117.157255,San Diego,California,0,0,1
+6485,A85,A85,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+6487,A94,A94,normal,38.805462,-123.017223,Cloverdale,California,0,0,1
+6489,A81,A81,normal,39.409608,-123.355566,Willits,California,0,0,1
+6490,A77,A77,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+6500,A54,A54,normal,37.77493,-122.419416,San Francisco,California,0,0,1
+6502,A59,A59,normal,34.579434,-118.116461,Palmdale,California,0,0,1
+6505,A40,A40,normal,41.526509,-124.038407,Klamath,California,0,0,1
+6515,A82,A82,normal,33.846404,-118.046731,La Palma,California,0,0,1
+6517,A79,A79,normal,32.61768,-116.187424,Jacumba,California,0,0,1
+6521,A23,A23,normal,39.145725,-121.591355,Marysville,California,0,0,1
+6532,A51,A51,normal,36.852455,-121.401602,Hollister,California,0,0,1
+6536,A9,A9,normal,37.957702,-121.29078,Stockton,California,0,0,1
+6537,A33,A33,normal,37.441883,-122.143019,Palo Alto,California,0,0,1
+6538,A94,A94,normal,33.683947,-117.794694,Irvine,California,0,0,1
+6539,A62,A62,normal,38.716687,-121.364422,Antelope,California,0,0,1
+6551,A75,A75,normal,32.61768,-116.187424,Jacumba,California,0,0,1
+6554,A45,A45,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+6555,A34,A34,normal,36.977173,-121.899402,Aptos,California,0,0,1
+6556,A74,A74,normal,32.715329,-117.157255,San Diego,California,0,0,1
+6560,A10,A10,normal,37.441883,-122.143019,Palo Alto,California,0,0,1
+6574,A24,A24,normal,37.639097,-120.996878,Modesto,California,0,0,1
+6576,A48,A48,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+6583,A58,A58,normal,39.145725,-121.591355,Marysville,California,0,0,1
+6590,A72,A72,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+6592,A18,A18,normal,39.150171,-123.207783,Ukiah,California,0,0,1
+6596,A9,A9,normal,33.846404,-118.046731,La Palma,California,0,0,1
+6602,A92,A92,normal,40.563763,-122.238892,Palo Cedro,California,0,0,1
+6603,A79,A79,normal,37.441883,-122.143019,Palo Alto,California,0,0,1
+6613,A88,A88,normal,38.799703,-121.720574,Knights Landing,California,0,0,1
+6621,A5,A5,normal,32.715329,-117.157255,San Diego,California,0,0,1
+6625,A24,A24,normal,37.005782,-121.568275,Gilroy,California,0,0,1
+6629,A49,A49,normal,37.77493,-122.419416,San Francisco,California,0,0,1
+6630,A48,A48,normal,32.811161,-115.380264,Holtville,California,0,0,1
+6641,A75,A75,normal,33.19587,-117.379483,Oceanside,California,0,0,1
+6644,A1,A1,normal,34.579434,-118.116461,Palmdale,California,0,0,1
+6645,A72,A72,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+6650,A55,A55,normal,38.297538,-122.286865,Napa,California,0,0,1
+6651,A9,A9,normal,38.130197,-121.272447,Lodi,California,0,0,1
+6653,A76,A76,normal,37.77493,-122.419416,San Francisco,California,0,0,1
+6654,A34,A34,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+6655,A66,A66,unsafe following distance,34.106676,-117.806726,San Dimas,California,0,1,1
+6665,A76,A76,normal,36.471865,-6.196595,San Fernando,California,0,0,1
+6666,A1,A1,normal,38.297538,-122.286865,Napa,California,0,0,1
+6680,A91,A91,normal,39.409608,-123.355566,Willits,California,0,0,1
+6683,A42,A42,normal,35.373292,-119.018712,Bakersfield,California,0,0,1
+6686,A93,A93,normal,36.977173,-121.899402,Aptos,California,0,0,1
+6689,A98,A98,normal,32.811161,-115.380264,Holtville,California,0,0,1
+6693,A44,A44,normal,38.752124,-121.288006,Roseville,California,0,0,1
+6698,A21,A21,normal,38.716687,-121.364422,Antelope,California,0,0,1
+6704,A11,A11,normal,39.409608,-123.355566,Willits,California,0,0,1
+6711,A63,A63,normal,38.130197,-121.272447,Lodi,California,0,0,1
+6712,A2,A2,normal,37.957702,-121.29078,Stockton,California,0,0,1
+6726,A47,A47,normal,36.977173,-121.899402,Aptos,California,0,0,1
+6729,A51,A51,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+6741,A19,A19,normal,35.373292,-119.018712,Bakersfield,California,0,0,1
+6742,A28,A28,normal,33.846404,-118.046731,La Palma,California,0,0,1
+6743,A33,A33,normal,34.106676,-117.806726,San Dimas,California,0,0,1
+6745,A80,A80,normal,34.44805,-119.242889,Ojai,California,0,0,1
+6750,A60,A60,normal,34.354166,-119.059271,Santa Paula,California,0,0,1
+6753,A4,A4,normal,39.230151,-121.136075,Rough and Ready,California,0,0,1
+6754,A46,A46,normal,32.715329,-117.157255,San Diego,California,0,0,1
+6755,A78,A78,normal,34.019454,-118.491191,Santa Monica,California,0,0,1
+6783,A22,A22,unsafe following distance,38.440467,-122.714431,Santa Rosa,California,0,1,1
+6792,A96,A96,normal,38.40765,-122.947713,Occidental,California,0,0,1
+6793,A52,A52,normal,38.805462,-123.017223,Cloverdale,California,0,0,1
+6796,A70,A70,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+6800,A42,A42,normal,36.977173,-121.899402,Aptos,California,0,0,1
+6804,A16,A16,normal,37.962146,-122.345526,San Pablo,California,0,0,1
+6805,A90,A90,normal,33.683947,-117.794694,Irvine,California,0,0,1
+6819,A76,A76,normal,34.44805,-119.242889,Ojai,California,0,0,1
+6820,A18,A18,normal,40.761243,-123.994778,Kneeland,California,0,0,1
+6825,A97,A97,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+6826,A16,A16,normal,39.017396,-122.057748,Arbuckle,California,0,0,1
+6829,A48,A48,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+6847,A12,A12,normal,39.017396,-122.057748,Arbuckle,California,0,0,1
+6852,A87,A87,normal,38.161861,-121.611621,Isleton,California,0,0,1
+6856,A83,A83,normal,37.441883,-122.143019,Palo Alto,California,0,0,1
+6858,A8,A8,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+6859,A25,A25,normal,39.017396,-122.057748,Arbuckle,California,0,0,1
+6862,A21,A21,normal,37.941325,-122.484704,San Quentin,California,0,0,1
+6867,A48,A48,normal,37.957702,-121.29078,Stockton,California,0,0,1
+6875,A43,A43,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+6877,A96,A96,normal,37.484938,-119.966284,Mariposa,California,0,0,1
+6885,A37,A37,normal,34.020011,-117.949508,La Puente,California,0,0,1
+6890,A71,A71,normal,32.811161,-115.380264,Holtville,California,0,0,1
+6891,A53,A53,normal,38.019366,-122.134132,Martinez,California,0,0,1
+6895,A9,A9,normal,34.019454,-118.491191,Santa Monica,California,0,0,1
+6897,A38,A38,normal,33.663357,-116.310009,La Quinta,California,0,0,1
+6899,A71,A71,normal,33.683947,-117.794694,Irvine,California,0,0,1
+6903,A66,A66,normal,34.106676,-117.806726,San Dimas,California,0,0,1
+6910,A69,A69,normal,36.746842,-119.772587,Fresno,California,0,0,1
+6920,A98,A98,normal,32.61768,-116.187424,Jacumba,California,0,0,1
+6921,A12,A12,normal,39.409608,-123.355566,Willits,California,0,0,1
+6925,A71,A71,normal,32.811161,-115.380264,Holtville,California,0,0,1
+6928,A49,A49,normal,34.44805,-119.242889,Ojai,California,0,0,1
+6933,A44,A44,normal,37.957702,-121.29078,Stockton,California,0,0,1
+6934,A10,A10,normal,37.957702,-121.29078,Stockton,California,0,0,1
+6944,A12,A12,normal,34.953034,-120.435719,Santa Maria,California,0,0,1
+6947,A24,A24,normal,38.130197,-121.272447,Lodi,California,0,0,1
+6948,A86,A86,normal,38.130197,-121.272447,Lodi,California,0,0,1
+6949,A2,A2,normal,36.471865,-6.196595,San Fernando,California,0,0,1
+6951,A9,A9,normal,38.130197,-121.272447,Lodi,California,0,0,1
+6957,A76,A76,normal,36.471865,-6.196595,San Fernando,California,0,0,1
+6960,A5,A5,normal,35.098865,-120.612393,Oceano,California,0,0,1
+6962,A1,A1,normal,34.579434,-118.116461,Palmdale,California,0,0,1
+6965,A79,A79,normal,37.941325,-122.484704,San Quentin,California,0,0,1
+6972,A65,A65,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+6975,A52,A52,normal,37.941325,-122.484704,San Quentin,California,0,0,1
+6978,A84,A84,normal,40.563763,-122.238892,Palo Cedro,California,0,0,1
+6979,A24,A24,normal,38.297538,-122.286865,Napa,California,0,0,1
+6982,A39,A39,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+6985,A46,A46,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+6987,A57,A57,normal,40.58654,-122.391675,Redding,California,0,0,1
+6989,A25,A25,normal,37.957702,-121.29078,Stockton,California,0,0,1
+6995,A39,A39,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+6997,A27,A27,normal,39.145725,-121.591355,Marysville,California,0,0,1
+7011,A91,A91,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+7016,A91,A91,normal,39.409608,-123.355566,Willits,California,0,0,1
+7018,A79,A79,normal,32.61768,-116.187424,Jacumba,California,0,0,1
+7026,A54,A54,normal,37.962146,-122.345526,San Pablo,California,0,0,1
+7051,A31,A31,normal,35.373292,-119.018712,Bakersfield,California,0,0,1
+7058,A92,A92,normal,36.746842,-119.772587,Fresno,California,0,0,1
+7064,A54,A54,normal,39.230151,-121.136075,Rough and Ready,California,0,0,1
+7068,A70,A70,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+7070,A37,A37,normal,37.441883,-122.143019,Palo Alto,California,0,0,1
+7074,A81,A81,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+7075,A16,A16,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+7080,A43,A43,normal,38.716687,-121.364422,Antelope,California,0,0,1
+7081,A18,A18,normal,38.161861,-121.611621,Isleton,California,0,0,1
+7084,A23,A23,normal,39.409608,-123.355566,Willits,California,0,0,1
+7086,A79,A79,normal,33.19587,-117.379483,Oceanside,California,0,0,1
+7089,A46,A46,normal,36.977173,-121.899402,Aptos,California,0,0,1
+7091,A38,A38,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+7097,A78,A78,normal,34.579434,-118.116461,Palmdale,California,0,0,1
+7101,A46,A46,normal,38.40765,-122.947713,Occidental,California,0,0,1
+7108,A34,A34,normal,33.663357,-116.310009,La Quinta,California,0,0,1
+7109,A80,A80,normal,40.58654,-122.391675,Redding,California,0,0,1
+7112,A35,A35,normal,39.409608,-123.355566,Willits,California,0,0,1
+7113,A15,A15,normal,32.715329,-117.157255,San Diego,California,0,0,1
+7114,A42,A42,normal,39.409608,-123.355566,Willits,California,0,0,1
+7128,A56,A56,normal,40.761243,-123.994778,Kneeland,California,0,0,1
+7130,A48,A48,normal,33.683947,-117.794694,Irvine,California,0,0,1
+7131,A7,A7,normal,34.44805,-119.242889,Ojai,California,0,0,1
+7134,A59,A59,normal,33.846404,-118.046731,La Palma,California,0,0,1
+7136,A12,A12,normal,37.77493,-122.419416,San Francisco,California,0,0,1
+7138,A12,A12,normal,34.953034,-120.435719,Santa Maria,California,0,0,1
+7143,A18,A18,normal,37.957702,-121.29078,Stockton,California,0,0,1
+7163,A96,A96,normal,36.977173,-121.899402,Aptos,California,0,0,1
+7166,A73,A73,normal,32.715329,-117.157255,San Diego,California,0,0,1
+7167,A45,A45,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+7171,A82,A82,normal,34.019454,-118.491191,Santa Monica,California,0,0,1
+7172,A8,A8,normal,39.145725,-121.591355,Marysville,California,0,0,1
+7179,A26,A26,normal,38.019366,-122.134132,Martinez,California,0,0,1
+7190,A78,A78,normal,38.693723,-119.779683,Markleeville,California,0,0,1
+7192,A82,A82,normal,33.846404,-118.046731,La Palma,California,0,0,1
+7198,A29,A29,normal,38.805462,-123.017223,Cloverdale,California,0,0,1
+7199,A44,A44,normal,33.683947,-117.794694,Irvine,California,0,0,1
+7214,A63,A63,normal,34.019454,-118.491191,Santa Monica,California,0,0,1
+7226,A47,A47,normal,38.297538,-122.286865,Napa,California,0,0,1
+7228,A47,A47,normal,39.017396,-122.057748,Arbuckle,California,0,0,1
+7229,A47,A47,normal,39.017396,-122.057748,Arbuckle,California,0,0,1
+7230,A22,A22,normal,38.019366,-122.134132,Martinez,California,0,0,1
+7234,A19,A19,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+7235,A70,A70,normal,36.977173,-121.899402,Aptos,California,0,0,1
+7239,A1,A1,normal,34.106676,-117.806726,San Dimas,California,0,0,1
+7245,A23,A23,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+7247,A3,A3,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+7251,A73,A73,normal,36.746842,-119.772587,Fresno,California,0,0,1
+7257,A44,A44,lane departure,39.409608,-123.355566,Willits,California,0,1,1
+7267,A94,A94,normal,32.61768,-116.187424,Jacumba,California,0,0,1
+7268,A73,A73,normal,36.746842,-119.772587,Fresno,California,0,0,1
+7269,A58,A58,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+7270,A98,A98,normal,38.716687,-121.364422,Antelope,California,0,0,1
+7281,A9,A9,unsafe following distance,38.297538,-122.286865,Napa,California,0,1,1
+7284,A41,A41,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+7298,A73,A73,normal,39.145725,-121.591355,Marysville,California,0,0,1
+7303,A73,A73,normal,39.230151,-121.136075,Rough and Ready,California,0,0,1
+7304,A13,A13,normal,37.957702,-121.29078,Stockton,California,0,0,1
+7306,A17,A17,normal,32.811161,-115.380264,Holtville,California,0,0,1
+7307,A34,A34,normal,36.471865,-6.196595,San Fernando,California,0,0,1
+7310,A100,A100,normal,36.977173,-121.899402,Aptos,California,0,0,1
+7313,A22,A22,normal,37.957702,-121.29078,Stockton,California,0,0,1
+7318,A94,A94,normal,32.811161,-115.380264,Holtville,California,0,0,1
+7323,A14,A14,normal,38.161861,-121.611621,Isleton,California,0,0,1
+7324,A100,A100,normal,39.230151,-121.136075,Rough and Ready,California,0,0,1
+7325,A57,A57,normal,33.663357,-116.310009,La Quinta,California,0,0,1
+7329,A86,A86,normal,33.683947,-117.794694,Irvine,California,0,0,1
+7332,A28,A28,normal,35.098865,-120.612393,Oceano,California,0,0,1
+7339,A41,A41,normal,38.161861,-121.611621,Isleton,California,0,0,1
+7351,A79,A79,normal,36.471865,-6.196595,San Fernando,California,0,0,1
+7352,A13,A13,normal,33.683947,-117.794694,Irvine,California,0,0,1
+7355,A10,A10,normal,37.957702,-121.29078,Stockton,California,0,0,1
+7358,A82,A82,normal,34.019454,-118.491191,Santa Monica,California,0,0,1
+7367,A24,A24,normal,37.005782,-121.568275,Gilroy,California,0,0,1
+7375,A71,A71,normal,38.716687,-121.364422,Antelope,California,0,0,1
+7378,A46,A46,normal,39.230151,-121.136075,Rough and Ready,California,0,0,1
+7387,A86,A86,normal,34.019454,-118.491191,Santa Monica,California,0,0,1
+7390,A34,A34,normal,36.471865,-6.196595,San Fernando,California,0,0,1
+7392,A100,A100,normal,39.145725,-121.591355,Marysville,California,0,0,1
+7393,A12,A12,normal,37.77493,-122.419416,San Francisco,California,0,0,1
+7401,A40,A40,normal,41.526509,-124.038407,Klamath,California,0,0,1
+7405,A15,A15,normal,38.799703,-121.720574,Knights Landing,California,0,0,1
+7407,A63,A63,normal,33.683947,-117.794694,Irvine,California,0,0,1
+7409,A92,A92,normal,36.977173,-121.899402,Aptos,California,0,0,1
+7410,A8,A8,normal,34.953034,-120.435719,Santa Maria,California,0,0,1
+7413,A74,A74,normal,37.005782,-121.568275,Gilroy,California,0,0,1
+7414,A15,A15,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+7415,A49,A49,normal,38.019366,-122.134132,Martinez,California,0,0,1
+7416,A78,A78,normal,32.715329,-117.157255,San Diego,California,0,0,1
+7419,A47,A47,normal,37.639097,-120.996878,Modesto,California,0,0,1
+7426,A25,A25,normal,37.941325,-122.484704,San Quentin,California,0,0,1
+7428,A97,A97,normal,35.098865,-120.612393,Oceano,California,0,0,1
+7439,A66,A66,normal,37.968812,-121.668008,Knightsen,California,0,0,1
+7444,A39,A39,normal,39.409608,-123.355566,Willits,California,0,0,1
+7445,A23,A23,normal,32.715329,-117.157255,San Diego,California,0,0,1
+7446,A88,A88,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+7459,A44,A44,normal,39.409608,-123.355566,Willits,California,0,0,1
+7462,A24,A24,normal,33.846404,-118.046731,La Palma,California,0,0,1
+7464,A61,A61,normal,40.563763,-122.238892,Palo Cedro,California,0,0,1
+7468,A71,A71,normal,33.683947,-117.794694,Irvine,California,0,0,1
+7472,A42,A42,normal,39.409608,-123.355566,Willits,California,0,0,1
+7477,A60,A60,normal,34.020011,-117.949508,La Puente,California,0,0,1
+7483,A65,A65,normal,35.373292,-119.018712,Bakersfield,California,0,0,1
+7492,A31,A31,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+7497,A62,A62,normal,39.409608,-123.355566,Willits,California,0,0,1
+7498,A86,A86,normal,38.130197,-121.272447,Lodi,California,0,0,1
+7501,A48,A48,normal,36.471865,-6.196595,San Fernando,California,0,0,1
+7504,A36,A36,normal,38.716687,-121.364422,Antelope,California,0,0,1
+7507,A72,A72,normal,38.019366,-122.134132,Martinez,California,0,0,1
+7512,A26,A26,normal,38.019366,-122.134132,Martinez,California,0,0,1
+7526,A4,A4,normal,37.962146,-122.345526,San Pablo,California,0,0,1
+7527,A3,A3,normal,34.44805,-119.242889,Ojai,California,0,0,1
+7529,A65,A65,normal,36.977173,-121.899402,Aptos,California,0,0,1
+7537,A34,A34,normal,36.977173,-121.899402,Aptos,California,0,0,1
+7539,A53,A53,normal,39.150171,-123.207783,Ukiah,California,0,0,1
+7541,A54,A54,normal,38.716687,-121.364422,Antelope,California,0,0,1
+7542,A14,A14,unsafe following distance,37.441883,-122.143019,Palo Alto,California,0,1,1
+7543,A48,A48,unsafe following distance,33.19587,-117.379483,Oceanside,California,0,1,1
+7545,A40,A40,normal,38.716687,-121.364422,Antelope,California,0,0,1
+7547,A19,A19,normal,36.977173,-121.899402,Aptos,California,0,0,1
+7551,A34,A34,normal,40.563763,-122.238892,Palo Cedro,California,0,0,1
+7553,A8,A8,normal,39.409608,-123.355566,Willits,California,0,0,1
+7558,A33,A33,normal,38.36408,-122.524149,Glen Ellen,California,0,0,1
+7562,A44,A44,normal,33.683947,-117.794694,Irvine,California,0,0,1
+7568,A72,A72,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+7569,A77,A77,normal,39.409608,-123.355566,Willits,California,0,0,1
+7594,A38,A38,lane departure,38.799703,-121.720574,Knights Landing,California,0,1,1
+7595,A22,A22,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+7597,A87,A87,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+7598,A96,A96,normal,39.409608,-123.355566,Willits,California,0,0,1
+7599,A92,A92,normal,38.40765,-122.947713,Occidental,California,0,0,1
+7601,A69,A69,normal,38.40765,-122.947713,Occidental,California,0,0,1
+7604,A79,A79,normal,38.36408,-122.524149,Glen Ellen,California,0,0,1
+7606,A82,A82,normal,34.019454,-118.491191,Santa Monica,California,0,0,1
+7613,A53,A53,normal,39.150171,-123.207783,Ukiah,California,0,0,1
+7614,A14,A14,normal,37.441883,-122.143019,Palo Alto,California,0,0,1
+7617,A49,A49,normal,38.161861,-121.611621,Isleton,California,0,0,1
+7618,A7,A7,normal,40.58654,-122.391675,Redding,California,0,0,1
+7619,A44,A44,normal,38.716687,-121.364422,Antelope,California,0,0,1
+7620,A72,A72,normal,38.161861,-121.611621,Isleton,California,0,0,1
+7624,A33,A33,normal,40.761243,-123.994778,Kneeland,California,0,0,1
+7625,A15,A15,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+7628,A79,A79,normal,37.957702,-121.29078,Stockton,California,0,0,1
+7630,A74,A74,normal,38.693723,-119.779683,Markleeville,California,0,0,1
+7635,A96,A96,normal,36.746842,-119.772587,Fresno,California,0,0,1
+7641,A48,A48,normal,33.19587,-117.379483,Oceanside,California,0,0,1
+7642,A89,A89,normal,38.716687,-121.364422,Antelope,California,0,0,1
+7644,A81,A81,normal,34.136119,-117.865339,Glendora,California,0,0,1
+7650,A22,A22,normal,40.58654,-122.391675,Redding,California,0,0,1
+7651,A50,A50,normal,39.409608,-123.355566,Willits,California,0,0,1
+7654,A3,A3,normal,34.44805,-119.242889,Ojai,California,0,0,1
+7656,A59,A59,normal,41.526509,-124.038407,Klamath,California,0,0,1
+7657,A79,A79,normal,32.61768,-116.187424,Jacumba,California,0,0,1
+7660,A19,A19,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+7663,A93,A93,normal,34.106676,-117.806726,San Dimas,California,0,0,1
+7664,A95,A95,normal,34.44805,-119.242889,Ojai,California,0,0,1
+7665,A60,A60,normal,37.957702,-121.29078,Stockton,California,0,0,1
+7667,A75,A75,normal,38.752124,-121.288006,Roseville,California,0,0,1
+7671,A16,A16,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+7672,A100,A100,normal,38.40765,-122.947713,Occidental,California,0,0,1
+7674,A18,A18,normal,33.846404,-118.046731,La Palma,California,0,0,1
+7676,A14,A14,normal,37.441883,-122.143019,Palo Alto,California,0,0,1
+7684,A17,A17,normal,39.017396,-122.057748,Arbuckle,California,0,0,1
+7685,A42,A42,normal,38.799703,-121.720574,Knights Landing,California,0,0,1
+7686,A66,A66,normal,38.716687,-121.364422,Antelope,California,0,0,1
+7688,A20,A20,normal,39.017396,-122.057748,Arbuckle,California,0,0,1
+7698,A96,A96,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+7699,A84,A84,unsafe following distance,34.500831,-117.185876,Apple Valley,California,0,1,1
+7700,A86,A86,normal,37.957702,-121.29078,Stockton,California,0,0,1
+7701,A70,A70,normal,36.852455,-121.401602,Hollister,California,0,0,1
+7703,A28,A28,normal,37.005782,-121.568275,Gilroy,California,0,0,1
+7704,A10,A10,normal,37.441883,-122.143019,Palo Alto,California,0,0,1
+7727,A67,A67,normal,38.716687,-121.364422,Antelope,California,0,0,1
+7729,A18,A18,normal,33.743076,-117.109197,Homeland,California,0,0,1
+7731,A24,A24,lane departure,39.017396,-122.057748,Arbuckle,California,0,1,1
+7734,A37,A37,normal,37.441883,-122.143019,Palo Alto,California,0,0,1
+7735,A60,A60,normal,34.435829,-119.827639,Goleta,California,0,0,1
+7736,A1,A1,normal,38.130197,-121.272447,Lodi,California,0,0,1
+7739,A15,A15,normal,39.409608,-123.355566,Willits,California,0,0,1
+7741,A74,A74,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+7743,A2,A2,normal,37.441883,-122.143019,Palo Alto,California,0,0,1
+7745,A5,A5,normal,34.579434,-118.116461,Palmdale,California,0,0,1
+7748,A53,A53,normal,36.471865,-6.196595,San Fernando,California,0,0,1
+7751,A67,A67,normal,32.61768,-116.187424,Jacumba,California,0,0,1
+7757,A55,A55,normal,34.579434,-118.116461,Palmdale,California,0,0,1
+7758,A93,A93,normal,36.852455,-121.401602,Hollister,California,0,0,1
+7760,A79,A79,normal,33.19587,-117.379483,Oceanside,California,0,0,1
+7763,A88,A88,normal,36.471865,-6.196595,San Fernando,California,0,0,1
+7764,A35,A35,normal,37.77493,-122.419416,San Francisco,California,0,0,1
+7768,A87,A87,normal,37.957702,-121.29078,Stockton,California,0,0,1
+7771,A83,A83,normal,37.941325,-122.484704,San Quentin,California,0,0,1
+7772,A91,A91,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+7774,A70,A70,normal,36.852455,-121.401602,Hollister,California,0,0,1
+7776,A29,A29,normal,38.752124,-121.288006,Roseville,California,0,0,1
+7779,A41,A41,normal,34.020011,-117.949508,La Puente,California,0,0,1
+7784,A38,A38,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+7786,A40,A40,normal,39.409608,-123.355566,Willits,California,0,0,1
+7791,A42,A42,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+7792,A47,A47,normal,39.017396,-122.057748,Arbuckle,California,0,0,1
+7796,A99,A99,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+7799,A2,A2,normal,36.471865,-6.196595,San Fernando,California,0,0,1
+7801,A41,A41,normal,34.354166,-119.059271,Santa Paula,California,0,0,1
+7802,A34,A34,normal,36.977173,-121.899402,Aptos,California,0,0,1
+7807,A32,A32,normal,34.579434,-118.116461,Palmdale,California,0,0,1
+7810,A90,A90,normal,32.61768,-116.187424,Jacumba,California,0,0,1
+7812,A57,A57,unsafe following distance,40.58654,-122.391675,Redding,California,0,1,1
+7819,A62,A62,normal,34.953034,-120.435719,Santa Maria,California,0,0,1
+7820,A50,A50,normal,34.136119,-117.865339,Glendora,California,0,0,1
+7823,A5,A5,normal,34.579434,-118.116461,Palmdale,California,0,0,1
+7826,A64,A64,normal,33.846404,-118.046731,La Palma,California,0,0,1
+7842,A23,A23,normal,34.136119,-117.865339,Glendora,California,0,0,1
+7851,A90,A90,normal,41.526509,-124.038407,Klamath,California,0,0,1
+7853,A52,A52,normal,34.435829,-119.827639,Goleta,California,0,0,1
+7859,A60,A60,normal,38.161861,-121.611621,Isleton,California,0,0,1
+7861,A49,A49,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+7868,A26,A26,normal,40.58654,-122.391675,Redding,California,0,0,1
+7869,A64,A64,normal,37.441883,-122.143019,Palo Alto,California,0,0,1
+7872,A9,A9,normal,38.716687,-121.364422,Antelope,California,0,0,1
+7873,A2,A2,normal,38.36408,-122.524149,Glen Ellen,California,0,0,1
+7880,A10,A10,normal,37.441883,-122.143019,Palo Alto,California,0,0,1
+7881,A60,A60,normal,34.435829,-119.827639,Goleta,California,0,0,1
+7882,A55,A55,normal,34.579434,-118.116461,Palmdale,California,0,0,1
+7883,A95,A95,normal,37.77493,-122.419416,San Francisco,California,0,0,1
+7885,A76,A76,normal,34.44805,-119.242889,Ojai,California,0,0,1
+7892,A85,A85,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+7897,A69,A69,normal,32.715329,-117.157255,San Diego,California,0,0,1
+7907,A83,A83,normal,32.61768,-116.187424,Jacumba,California,0,0,1
+7908,A97,A97,normal,37.639097,-120.996878,Modesto,California,0,0,1
+7909,A1,A1,normal,38.130197,-121.272447,Lodi,California,0,0,1
+7914,A46,A46,normal,35.373292,-119.018712,Bakersfield,California,0,0,1
+7924,A73,A73,normal,35.373292,-119.018712,Bakersfield,California,0,0,1
+7933,A46,A46,normal,36.977173,-121.899402,Aptos,California,0,0,1
+7935,A59,A59,normal,33.846404,-118.046731,La Palma,California,0,0,1
+7936,A99,A99,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+7940,A63,A63,normal,41.526509,-124.038407,Klamath,California,0,0,1
+7944,A27,A27,normal,38.716687,-121.364422,Antelope,California,0,0,1
+7948,A81,A81,normal,37.962146,-122.345526,San Pablo,California,0,0,1
+7952,A32,A32,normal,41.526509,-124.038407,Klamath,California,0,0,1
+7956,A66,A66,normal,37.962146,-122.345526,San Pablo,California,0,0,1
+7957,A18,A18,normal,34.500831,-117.185876,Apple Valley,California,0,0,1
+7961,A58,A58,normal,39.409608,-123.355566,Willits,California,0,0,1
+7968,A70,A70,normal,38.716687,-121.364422,Antelope,California,0,0,1
+7970,A89,A89,normal,39.409608,-123.355566,Willits,California,0,0,1
+7971,A79,A79,normal,37.941325,-122.484704,San Quentin,California,0,0,1
+7980,A14,A14,normal,37.441883,-122.143019,Palo Alto,California,0,0,1
+7983,A43,A43,normal,38.716687,-121.364422,Antelope,California,0,0,1
+7985,A87,A87,unsafe following distance,34.020011,-117.949508,La Puente,California,0,1,1
+7992,A92,A92,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+7994,A32,A32,normal,38.130197,-121.272447,Lodi,California,0,0,1
+7997,A14,A14,normal,37.957702,-121.29078,Stockton,California,0,0,1
+7998,A88,A88,normal,38.440467,-122.714431,Santa Rosa,California,0,0,1
+8000,A71,A71,normal,33.19587,-117.379483,Oceanside,California,0,0,1
